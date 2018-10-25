@@ -7,12 +7,11 @@ redirect_from: "/assets/Acik_Kaynak Programlama_Altug Demirden.pdf"
 permalink: acik_kaynak_altug_demirden
 ---
 
-## AÇIK KAYNAK PROGRAMLAMA GELİŞTİRME
+[Pdf versiyon](/assets/Acik_Kaynak_Programlama_Altug Demirden.pdf)
 
-```
-Altuğ Demirden
-01.10.
-```
+# AÇIK KAYNAK PROGRAMLAMA GELİŞTİRME
+
+![OpenSource](/assets/acik-kaynak/altug-demirden/0.png)
 
 ## İÇERİK
 
@@ -36,6 +35,7 @@ yazılımlara ve içerisinde olduğumuz şirketlerin altyapısına kadar her yer
 
 1970'lerin sonlarında, Richard M. Stallman (RMS) MIT'de bir personel programcısıydı.
 
+![Richard M. Stallman (RMS)](/assets/acik-kaynak/altug-demirden/1.png)
 **Resim 1:** Richard M. Stallman (RMS)
 
 Departmanı, birçok üniversitedeki gibi, bir PDP-10 bilgisayarı (bkz. Resim 2 ) ve tek bir yazıcıyı
@@ -53,9 +53,9 @@ olan Stallman, meslektaşından kaynak kodunu paylaşmasını istedi ve reddetti
 Stallman'ın hacker kültürüne ihanet ettiği bir gizlilik anlaşması (NDA) imzaladılar.
 
 
-```
-Resim 2 : PDP 10 Bilgisayarı
-```
+![PDP 10 Bilgisayarı](/assets/acik-kaynak/altug-demirden/2.png)
+**Resim 2** : PDP 10 Bilgisayarı
+
 70'lerin sonları ve 80'lerin başında, geleneksel olarak kaynak kod biçimindeki donanımla birlikte
 verilen yazılımın değerli olduğu bir dönemi temsil ediyordu. Giderek artan bir şekilde, MİT
 araştırmacıları yazılım şirketleri kuruyordu ve yazılıma lisans satmak iş modellerinin anahtarıydı.
@@ -95,6 +95,7 @@ merkezi olmayan, işbirlikçi kalkınma modelinin gelişmesine olanak vermiştir
 Linux çekirdeği, daha önce insanların gördüğü her şeyden tamamen farklı bir şekilde geliştirildi ve çok
 başarılı oldu. Çekirdek topluluğunun kaosundan sıyrılıp, hızlı hareket eden bir proje geldi.
 
+![The Cathedral & The Bazaar](/assets/acik-kaynak/altug-demirden/3.png)
 **Resim 3:** The Cathedral & The Bazaar
 
 1997'de, Eric S. Raymond, GCC ve Linux çekirdeğinin gelişim metodolojilerini ve sosyal yapısını
@@ -194,15 +195,14 @@ GPL gereksinimlerine tabi tutulmadan diğer özel kodlara dinamik olarak bağlan
 ve MPL en zayıf kopyaları, EPL veya MPL kodu kendi dosyasında olduğu sürece, diğer kodlarla her
 türlü entegrasyona izin verir.
 
-```
-Permissive Licenses Copyleft Licenses
-BSD (Berkeley Software Distribution) Affero GPL (AGPL)
-MIT GPL
-Apache 2 Lesser GPL (LGPL)
-Mozilla Public License (MPL)
-Eclipse Public License (EPL)
-Common Development and Distribution License (CDDL)
-```
+| Permissive Licenses | Copyleft Licenses |
+|-|-|
+| BSD | (Berkeley Software Distribution) Affero GPL (AGPL) |
+| MIT | GPL |
+| Apache 2 | Lesser GPL (LGPL) |
+| | Mozilla Public License (MPL) |
+| | Eclipse Public License (EPL) |
+| | Common Development and Distribution License (CDDL) |
 
 ## Açık Kaynak Projelere hizmet veren servisler:
 
@@ -216,6 +216,8 @@ GitLab, Git deposu barındırma hizmetlerinde öne çıkan iki isimdir.
 
 ### GitHub:
 
+![GitHub](/assets/acik-kaynak/altug-demirden/4.png)
+
 GitHub, web tabanlı bir havuz yönetimi hizmeti ve dünyanın en büyük kaynak kod deposu olan
 yazılım geliştirici projelerinde işbirliği yapmak için tek bir çatı altında en büyük geliştirici topluluğunu
 bir araya getirmektedir. İlk olarak 2008'de bir web sitesi olarak kurulan GitHub, dünyanın dört bir
@@ -227,6 +229,8 @@ oluşturmak ve bir takım olarak milyonlarca açık kaynaklı projede birlikte �
 yazılım geliştirme iş akışı için fikirleri paylaşmak merkezi bir yerdir.
 
 ### GitLab:
+
+![GitLab](/assets/acik-kaynak/altug-demirden/5.png)
 
 GitLab, modern yazılım geliştirme projeleri için GitLab Inc. tarafından geliştirilen web tabanlı bir Git
 deposu yöneticisidir. Sony, IBM, Alibaba, NASA, O’Reilly Media, SpaceX, CERN ve daha fazlası gibi

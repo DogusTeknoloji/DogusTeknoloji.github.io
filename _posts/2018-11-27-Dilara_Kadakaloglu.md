@@ -9,6 +9,8 @@ permalink: acik_kaynak_dilara_kadakaloglu
 
 [Pdf versiyon](/assets/acik-kaynak/dilara-kadakaloglu/Open_Source_Proje_Gelistirme-Dilara_Kadakaloglu.pdf)
 
+![OpenSource](/assets/acik-kaynak/dilara-kadakaloglu/0.png)
+
 # Open Source Proje Geliştirme
 
 Günümüzde giderek yayılan “Open Source (Açık Kaynak)” ve “Free Software (Özgür Yazılım)”

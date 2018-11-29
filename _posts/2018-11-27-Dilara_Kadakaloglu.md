@@ -9,7 +9,7 @@ permalink: acik_kaynak_dilara_kadakaloglu
 
 [Pdf versiyon](/assets/acik-kaynak/dilara-kadakaloglu/Open_Source_Proje_Gelistirme-Dilara_Kadakaloglu.pdf)
 
-<img src="/assets/acik-kaynak/dilara-kadakaloglu/0.png" alt="OpenSource" width="800"/>
+<img src="/assets/acik-kaynak/dilara-kadakaloglu/0.png" alt="OpenSource" width="1000"/>
 
 # Open Source Proje Geliştirme
 
@@ -389,6 +389,7 @@ belgesidir. Lisanslı çalışmalar, değişiklikler ve daha büyük işler fark
 olmadan dağıtılabilir.
 
 <img src="/assets/acik-kaynak/dilara-kadakaloglu/1.png" alt="MIT Lisans" width="800"/>
+
 <img src="/assets/acik-kaynak/dilara-kadakaloglu/2.png" alt="MIT Lisans" width="800"/>
 
 #### GNU General Public License v3.0 (GNU GPLv3)
@@ -420,7 +421,7 @@ Tüm dünya ülkelerinin açık kaynak kodlu yazılım geliştirme ve kullanmada
 
 Bu çalışma, ülkelerin açık kaynak kodlu yazılımlar için aldığı yasal kararlar dikkate alınarak yapılmış ve ülkeleri belirli kategorilerde gruplayarak sınıflandırmıştır.
 
-<img src="/assets/acik-kaynak/dilara-kadakaloglu/5.png" alt="Dünyada Open Source" width="800"/>
+<img src="/assets/acik-kaynak/dilara-kadakaloglu/5.png" alt="Dünyada Open Source" width="1000"/>
 
 Bu çalışmaya göre; Amerika, Çin, Hindistan ve çoğu Avrupa ülkesinin, açık kaynak kodlu yazılımları teşvik eden ama yasal yaptırımı olmayan ülkeler kategorisinde olduğunu görüyoruz. Türkiye ise Rusya ve Brezilya ile aynı kategoride olup, yasal yaptırımın değerlendirme aşamasında olan ülkeler arasındadır.
 
@@ -428,7 +429,7 @@ Bu çalışmaya göre; Amerika, Çin, Hindistan ve çoğu Avrupa ülkesinin, aç
 
 #### WordPress
 
-<img src="/assets/acik-kaynak/dilara-kadakaloglu/6.png" alt="WordPress" width="144"/>
+<img src="/assets/acik-kaynak/dilara-kadakaloglu/6.png" alt="WordPress" width="200"/>
 
 WordPress, 2003 yılında Mike Little ve Matt Mullenweg tarafından kurulmuştur. Web'deki tüm
 sitelerin % 32'sinden fazlası için tercih edilen bu platform, PHP ve MySQL üzerinde yerleşik ve GPLv
@@ -441,7 +442,7 @@ temalarına da sahiptir.
 
 #### Mozilla Firefox
 
-<img src="/assets/acik-kaynak/dilara-kadakaloglu/7.png" alt="Mozilla Firefox" width="144"/>
+<img src="/assets/acik-kaynak/dilara-kadakaloglu/7.png" alt="Mozilla Firefox" width="200"/>
 
 Mozilla Firefox (veya sadece Firefox), Mozilla Foundation ve onun yan kuruluşu olan Mozilla
 Corporation tarafından geliştirilen ücretsiz ve açık kaynaklı bir web tarayıcısıdır. Firefox, Windows,
@@ -453,7 +454,7 @@ kullanıcılara sunduğu kapsamlı third-party eklentiler sayesinde artmaktadır
 
 #### Apache OpenOffice
 
-<img src="/assets/acik-kaynak/dilara-kadakaloglu/8.png" alt="Apache OpenOffice" width="144"/>
+<img src="/assets/acik-kaynak/dilara-kadakaloglu/8.png" alt="Apache OpenOffice" width="200"/>
 
 Apache OpenOffice, Microsoft Office’in ücretsiz bir alternatifi olarak, Apache Yazılım Vakfı
 önderliğinde özgür yazılım topluluklarınca geliştirilen, özgür ve ücretsiz bir ofis yazılımlarıdır. Kelime
@@ -465,7 +466,7 @@ kurulabilir. Microsoft Windows, Linux ve Mac OS X işletim sistemlerini destekle
 
 #### MySQL
 
-<img src="/assets/acik-kaynak/dilara-kadakaloglu/9.png" alt="MySQL" width="144"/>
+<img src="/assets/acik-kaynak/dilara-kadakaloglu/9.png" alt="MySQL" width="200"/>
 
 MySQL, 6 milyondan fazla sistemde yüklü bulunan multi-threaded, multi-user, hızlı bir veri tabanı
 yönetim sistemidir. UNIX, OS/2 ve Windows platformları için ücretsiz dağıtılmakla birlikte
@@ -478,7 +479,7 @@ MySQL geliştirme projesi, kaynak kodunu, çeşitli özel anlaşmaların yanı s
 
 #### NotePad++
 
-<img src="/assets/acik-kaynak/dilara-kadakaloglu/10.png" alt="NotePad++" width="144"/>
+<img src="/assets/acik-kaynak/dilara-kadakaloglu/10.png" alt="NotePad++" width="200"/>
 
 Notepad++, Windows işletim sistemi içerisine gömülü olarak gelen Notepad yazılımına alternatif
 olarak kullanılmak üzere C++ ile geliştirilmiş GPL ile dağıtılan açık kaynak kodlu bir kaynak kod
@@ -487,7 +488,7 @@ kodu görüntüleyip uygun olarak highlight edebilir.
 
 #### Android
 
-<img src="/assets/acik-kaynak/dilara-kadakaloglu/11.png" alt="Android" width="144"/>
+<img src="/assets/acik-kaynak/dilara-kadakaloglu/11.png" alt="Android" width="200"/>
 
 Android, Linux çekirdeğinin ve diğer açık kaynak kodlu yazılımların değiştirilmiş bir versiyonuna
 dayanan, öncelikle akıllı telefonlar-tabletler gibi dokunmatik ekranlı mobil cihazlar için tasarlanmış
@@ -497,7 +498,7 @@ OS'yi geliştirdi.
 
 #### VS Code
 
-<img src="/assets/acik-kaynak/dilara-kadakaloglu/12.png" alt="VS Code" width="144"/>
+<img src="/assets/acik-kaynak/dilara-kadakaloglu/12.png" alt="VS Code" width="200"/>
 
 VS Code, Nisan 2015’te Microsoft’un piyasaya çıkarttığı ve Windows, Linux, macOS işletim
 sistemlerinde kullanılabilen, Visual Studio’nun aksine bir IDE değil, programlama odaklı bir text

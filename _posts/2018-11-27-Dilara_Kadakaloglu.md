@@ -9,7 +9,7 @@ permalink: acik_kaynak_dilara_kadakaloglu
 
 [Pdf versiyon](/assets/acik-kaynak/dilara-kadakaloglu/Open_Source_Proje_Gelistirme-Dilara_Kadakaloglu.pdf)
 
-![OpenSource](/assets/acik-kaynak/dilara-kadakaloglu/0.png)
+![OpenSource](/assets/acik-kaynak/dilara-kadakaloglu/0.png =250x)
 
 # Open Source Proje Geliştirme
 

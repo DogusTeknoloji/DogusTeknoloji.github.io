@@ -9,7 +9,7 @@ permalink: acik_kaynak_dilara_kadakaloglu
 
 [Pdf versiyon](/assets/acik-kaynak/dilara-kadakaloglu/Open_Source_Proje_Gelistirme-Dilara_Kadakaloglu.pdf)
 
-<img src="/assets/acik-kaynak/dilara-kadakaloglu/0.png" alt="OpenSource" width="200"/>
+<img src="/assets/acik-kaynak/dilara-kadakaloglu/0.png" alt="OpenSource" width="800"/>
 
 # Open Source Proje Geliştirme
 
@@ -320,7 +320,7 @@ Aşağıda ise Copyleft lisansların ortak izin, koşul ve sınırlamaları gös
 ### İzinler Koşullar Sınırlamalar
 
 | İzinler | Koşullar | Sınırlamalar |
-| -------------|-------------| -----|
+|-------------|:-------------:|-----:|
 | Ticari Kullanım | Açık Kaynak | Sorumluluk |
 | Dağıtım | Lisans ve Telif Hakkı Bildirimi | Garanti |
 | Değişiklik | Aynı Lisans | |
@@ -352,7 +352,7 @@ kullanımına izin verirken bazıları (MIT) izin vermez.
 Aşağıda ise Non-Copyleft lisansların ortak izin, koşul ve sınırlamaları gösterilmiştir.
 
 | İzinler | Koşullar | Sınırlamalar |
-| -------------|-------------| -----|
+|-------------|:-------------:|-----:|
 | Ticari Kullanım | Açık Kaynak | Sorumluluk |
 | Dağıtım | Lisans ve Telif Hakkı Bildirimi | Garanti |
 | Değişiklik | | |
@@ -388,8 +388,8 @@ Sadece telif hakkı ve lisans bildirimlerinin korunmasını gerektiren şartlarl
 belgesidir. Lisanslı çalışmalar, değişiklikler ve daha büyük işler farklı şartlar altında ve kaynak kodu
 olmadan dağıtılabilir.
 
-![MIT Lisans](/assets/acik-kaynak/dilara-kadakaloglu/1.png)
-![MIT Lisans](/assets/acik-kaynak/dilara-kadakaloglu/2.png)
+<img src="/assets/acik-kaynak/dilara-kadakaloglu/1.png" alt="MIT Lisans" width="400"/>
+<img src="/assets/acik-kaynak/dilara-kadakaloglu/2.png" alt="MIT Lisans" width="400"/>
 
 #### GNU General Public License v3.0 (GNU GPLv3)
 
@@ -397,7 +397,7 @@ Türkçe karşılığı “Genel Kamu Lisansı” olan bu lisans, ilk defa açı
 
 GPL lisansı kullanım şartlarının değiştirilmeden istediğiniz şekilde kullanmanıza izin verir. Lisans şartlarının değiştirilmediği sürece istenilen her şey yapılabilir.
 
-![GNU Lisans](/assets/acik-kaynak/dilara-kadakaloglu/3.png)
+<img src="/assets/acik-kaynak/dilara-kadakaloglu/3.png" alt="GNU Lisans" width="400"/>
 
 #### Apache 2
 
@@ -410,7 +410,7 @@ ASF tarafından üretilen ya da onun herhangi bir tasarısının ürünü olan t
 koşullarına göre lisanslanmaktadır. ASF tarafından üretilmeyen yazılımlar da zaman zaman bu lisansı
 kullanabilmektedir
 
-![Apache 2 Lisans](/assets/acik-kaynak/dilara-kadakaloglu/4.png)
+<img src="/assets/acik-kaynak/dilara-kadakaloglu/4.png" alt="Apache 2 Lisans" width="400"/>
 
 # Türkiye’de ve Dünyada Open Source
 
@@ -420,7 +420,7 @@ Tüm dünya ülkelerinin açık kaynak kodlu yazılım geliştirme ve kullanmada
 
 Bu çalışma, ülkelerin açık kaynak kodlu yazılımlar için aldığı yasal kararlar dikkate alınarak yapılmış ve ülkeleri belirli kategorilerde gruplayarak sınıflandırmıştır.
 
-![Dünyada Open Source](/assets/acik-kaynak/dilara-kadakaloglu/5.png)
+<img src="/assets/acik-kaynak/dilara-kadakaloglu/5.png" alt="Dünyada Open Source" width="800"/>
 
 Bu çalışmaya göre; Amerika, Çin, Hindistan ve çoğu Avrupa ülkesinin, açık kaynak kodlu yazılımları teşvik eden ama yasal yaptırımı olmayan ülkeler kategorisinde olduğunu görüyoruz. Türkiye ise Rusya ve Brezilya ile aynı kategoride olup, yasal yaptırımın değerlendirme aşamasında olan ülkeler arasındadır.
 
@@ -428,7 +428,7 @@ Bu çalışmaya göre; Amerika, Çin, Hindistan ve çoğu Avrupa ülkesinin, aç
 
 #### WordPress
 
-![WordPress](/assets/acik-kaynak/dilara-kadakaloglu/6.png)
+<img src="/assets/acik-kaynak/dilara-kadakaloglu/6.png" alt="WordPress" width="144"/>
 
 WordPress, 2003 yılında Mike Little ve Matt Mullenweg tarafından kurulmuştur. Web'deki tüm
 sitelerin % 32'sinden fazlası için tercih edilen bu platform, PHP ve MySQL üzerinde yerleşik ve GPLv
@@ -441,7 +441,7 @@ temalarına da sahiptir.
 
 #### Mozilla Firefox
 
-![Mozilla Firefox](/assets/acik-kaynak/dilara-kadakaloglu/7.png)
+<img src="/assets/acik-kaynak/dilara-kadakaloglu/7.png" alt="Mozilla Firefox" width="144"/>
 
 Mozilla Firefox (veya sadece Firefox), Mozilla Foundation ve onun yan kuruluşu olan Mozilla
 Corporation tarafından geliştirilen ücretsiz ve açık kaynaklı bir web tarayıcısıdır. Firefox, Windows,
@@ -453,7 +453,7 @@ kullanıcılara sunduğu kapsamlı third-party eklentiler sayesinde artmaktadır
 
 #### Apache OpenOffice
 
-![Apache OpenOffice](/assets/acik-kaynak/dilara-kadakaloglu/8.png)
+<img src="/assets/acik-kaynak/dilara-kadakaloglu/8.png" alt="Apache OpenOffice" width="144"/>
 
 Apache OpenOffice, Microsoft Office’in ücretsiz bir alternatifi olarak, Apache Yazılım Vakfı
 önderliğinde özgür yazılım topluluklarınca geliştirilen, özgür ve ücretsiz bir ofis yazılımlarıdır. Kelime
@@ -465,7 +465,7 @@ kurulabilir. Microsoft Windows, Linux ve Mac OS X işletim sistemlerini destekle
 
 #### MySQL
 
-![MySQL](/assets/acik-kaynak/dilara-kadakaloglu/9.png)
+<img src="/assets/acik-kaynak/dilara-kadakaloglu/9.png" alt="MySQL" width="144"/>
 
 MySQL, 6 milyondan fazla sistemde yüklü bulunan multi-threaded, multi-user, hızlı bir veri tabanı
 yönetim sistemidir. UNIX, OS/2 ve Windows platformları için ücretsiz dağıtılmakla birlikte
@@ -478,7 +478,7 @@ MySQL geliştirme projesi, kaynak kodunu, çeşitli özel anlaşmaların yanı s
 
 #### NotePad++
 
-![NotePad++](/assets/acik-kaynak/dilara-kadakaloglu/10.png)
+<img src="/assets/acik-kaynak/dilara-kadakaloglu/10.png" alt="NotePad++" width="144"/>
 
 Notepad++, Windows işletim sistemi içerisine gömülü olarak gelen Notepad yazılımına alternatif
 olarak kullanılmak üzere C++ ile geliştirilmiş GPL ile dağıtılan açık kaynak kodlu bir kaynak kod
@@ -487,7 +487,7 @@ kodu görüntüleyip uygun olarak highlight edebilir.
 
 #### Android
 
-![Android](/assets/acik-kaynak/dilara-kadakaloglu/11.png)
+<img src="/assets/acik-kaynak/dilara-kadakaloglu/11.png" alt="Android" width="144"/>
 
 Android, Linux çekirdeğinin ve diğer açık kaynak kodlu yazılımların değiştirilmiş bir versiyonuna
 dayanan, öncelikle akıllı telefonlar-tabletler gibi dokunmatik ekranlı mobil cihazlar için tasarlanmış
@@ -497,13 +497,13 @@ OS'yi geliştirdi.
 
 #### VS Code
 
-![VS Code](/assets/acik-kaynak/dilara-kadakaloglu/12.png)
+<img src="/assets/acik-kaynak/dilara-kadakaloglu/12.png" alt="VS Code" width="144"/>
 
 VS Code, Nisan 2015’te Microsoft’un piyasaya çıkarttığı ve Windows, Linux, macOS işletim
 sistemlerinde kullanılabilen, Visual Studio’nun aksine bir IDE değil, programlama odaklı bir text
 editördür. Stack Overflow’un 2018 Geliştirici Anketi'nde en popüler geliştirici ortamı seçilmiştir.
 
-![VS Code](/assets/acik-kaynak/dilara-kadakaloglu/13.png)
+<img src="/assets/acik-kaynak/dilara-kadakaloglu/13.png" alt="VS Code" width="500"/>
 
 ## Türkiye’deki Open Source Çalışmaları
 
@@ -524,7 +524,7 @@ olursak;
     siber güvenlik bileşenlerinin entegre edildiği bir sistemdir. İşletim Sistemi Pardus'tur; bu
     sayede siber güvenlik bileşenlerinde de açık kaynak kodlu milli işletim sistemi dağıtımı
     kullanılmaktadır.
-    
+
 - **EnGerek – Kimlik yönetim Sistemi** : Web tabanlı geliştirilmiş bir kimlik yönetim sistemidir.
     Java programlama dili ile geliştirilmiştir. Temel hedefi kurum kullanıcılarını ve hesaplarını
     merkezden yönetmektir. Açık kaynaklı olarak geliştirilmiştir. Tomcat uygulama sunucusu
@@ -568,7 +568,7 @@ olursak;
     oluşturduğu, bilgi ve deneyim paylaşımı ile ortak hareket etmeyi amaçlayan bir sivil toplum
     örgütüdür. [http://www.lkd.org.tr/](http://www.lkd.org.tr/)
 
-![LKD](/assets/acik-kaynak/dilara-kadakaloglu/14.png)
+<img src="/assets/acik-kaynak/dilara-kadakaloglu/14.png" alt="LKD" width="144"/>
 
 LKD, Türkiye’de özgür yazılım ve Linux’un gelişmesini ve bu konuda ülkede özgür yazılım
 bilincinin oluşmasını, özgür yazılım ile Linux’un ülkeye ve topluma yarar sağlamasını
@@ -583,14 +583,14 @@ yapar; bunları kamuoyu ile paylaşır ve bunların hayata geçmesi için çalı
     uygun tanıtıcı ve teknik seminerler yapılır. İlgili şirket ve organizasyonların stand açıp, ürün ve
     hizmetlerini tanıtabileceği bir platformdur. https://ozguryazilimgunleri.org.tr
 
-![Özgür Yazılım Günleri](/assets/acik-kaynak/dilara-kadakaloglu/15.png)
+<img src="/assets/acik-kaynak/dilara-kadakaloglu/15.png" alt="Özgür Yazılım Günleri" width="144"/>
 
 - **Açık Bilim:** Açık bilim, elde edilen bilimsel ürünlerin, bilimsel makalelerin ya da bilimsel
     yayınların kullanıcılar için ücretsiz, patentsiz bir şekilde ulaşıma açık hale getirilmesi amacını
     güder. Bilimsel ürünlerin özgürce herkes tarafından kullanılması, geliştirilmesi ve bu ürünler
     sayesinde yeni buluşlar yapılması amacı güdülmektedir.
 
-![Açık Bilim](/assets/acik-kaynak/dilara-kadakaloglu/16.png)
+<img src="/assets/acik-kaynak/dilara-kadakaloglu/16.png" alt="Açık Bilim" width="300"/>
 
 # Doğuş Teknoloji ve Open Source
 

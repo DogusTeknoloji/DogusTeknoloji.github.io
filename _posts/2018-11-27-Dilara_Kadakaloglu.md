@@ -319,38 +319,29 @@ Aşağıda ise Copyleft lisansların ortak izin, koşul ve sınırlamaları gös
 
 ### İzinler Koşullar Sınırlamalar
 
-```
-Ticari Kullanım Açık Kaynak Sorumluluk
-```
-```
-Dağıtım Lisans ve Telif Hakkı Bildirimi Garanti
-```
-```
-Değişiklik Aynı Lisans
-```
-```
-Patent Kullanımı Durum Değişiklikleri
-```
-```
-Özel Kullanım
-```
+| İzinler | Koşullar | Sınırlamalar |
+| -------------|-------------| -----|
+| Ticari Kullanım | Açık Kaynak | Sorumluluk |
+| Dağıtım | Lisans ve Telif Hakkı Bildirimi | Garanti |
+| Değişiklik | Aynı Lisans | |
+| Patent Kullanımı | Durum Değişiklikleri | |
+| Özel Kullanım | | |
+
 CopyLeft lisans örnekleri;
 
-```
-▪ GNU GPL v2 and v
-▪ GNU LGPL
-▪ Mozilla Public License
-▪ Eclipse Public License 1.
-```
+- GNU GPL v2 and v
+- GNU LGPL
+- Mozilla Public License
+- Eclipse Public License 1.
+
 CopyLeft lisans kullanan yazılım örnekleri;
 
-```
-▪ Linux Kernel
-▪ Bash
-▪ GIMP
-▪ Ansible
-▪ Quake (id software)
-```
+- Linux Kernel
+- Bash
+- GIMP
+- Ansible
+- Quake (id software)
+
 #### Non–CopyLeft
 
 Non-CopyLeft yazılım lisansları, orijinal yazılımın sahiplerinin, dağıtılan kopyalardan hiçbir şekilde
@@ -360,47 +351,35 @@ kullanımına izin verirken bazıları (MIT) izin vermez.
 
 Aşağıda ise Non-Copyleft lisansların ortak izin, koşul ve sınırlamaları gösterilmiştir.
 
-### İzinler Koşullar Sınırlamalar
+| İzinler | Koşullar | Sınırlamalar |
+| -------------|-------------| -----|
+| Ticari Kullanım | Açık Kaynak | Sorumluluk |
+| Dağıtım | Lisans ve Telif Hakkı Bildirimi | Garanti |
+| Değişiklik | | |
+| Patent Kullanımı | | |
+| Özel Kullanım | | |
 
-```
-Ticari Kullanım Açık Kaynak Sorumluluk
-```
-
-```
-Dağıtım Lisans ve Telif Hakkı Bildirimi Garanti
-```
-```
-Değişiklik
-```
-```
-Patent Kullanımı
-```
-```
-Özel Kullanım
-```
 Non-CopyLeft lisans örnekleri;
 
-```
-▪ Apache Software License 2.
-▪ BSD Licenses
-▪ MIT License
-▪ Internet Software Consortium (ISC)
-▪ X11 LIcense
-▪ Free Public License
-▪ The Don’t Ask Me About It License
-▪ Eclipse Public License 2.
-```
+- Apache Software License 2.
+- BSD Licenses
+- MIT License
+- Internet Software Consortium (ISC)
+- X11 LIcense
+- Free Public License
+- The Don’t Ask Me About It License
+- Eclipse Public License 2.
+
 Non-CopyLeft lisans kullanan yazılım örnekleri;
 
-```
-▪ Powershell
-▪ Tensorflow
-▪ ASP.NET
-▪ .NET Framework
-▪ Android (mostly, see: https://source.android.com/setup/start/licenses)
-▪ SimCity
-▪ Atlassian (Bitbucket, JIRA, etc)
-```
+- Powershell
+- Tensorflow
+- ASP.NET
+- .NET Framework
+- Android (mostly, see: https://source.android.com/setup/start/licenses)
+- SimCity
+- Atlassian (Bitbucket, JIRA, etc)
+
 ## En Çok Kullanılan Lisanslar
 
 #### MIT Lisansı
@@ -409,53 +388,47 @@ Sadece telif hakkı ve lisans bildirimlerinin korunmasını gerektiren şartlarl
 belgesidir. Lisanslı çalışmalar, değişiklikler ve daha büyük işler farklı şartlar altında ve kaynak kodu
 olmadan dağıtılabilir.
 
+![MIT Lisans](/assets/acik-kaynak/dilara-kadakaloglu/1.png)
+![MIT Lisans](/assets/acik-kaynak/dilara-kadakaloglu/2.png)
 
 #### GNU General Public License v3.0 (GNU GPLv3)
 
-Türkçe karşılığı “Genel Kamu Lisansı” olan bu lisans, ilk defa açık kaynak kodlu üreticilerin kodlarının
+Türkçe karşılığı “Genel Kamu Lisansı” olan bu lisans, ilk defa açık kaynak kodlu üreticilerin kodlarının kapalı kaynağa dönüştürülmesiyle ortaya çıkmış bir lisans türüdür.
 
-### kapalı kaynağa dönüştürülmesiyle ortaya çıkmış bir lisans türüdür.
+GPL lisansı kullanım şartlarının değiştirilmeden istediğiniz şekilde kullanmanıza izin verir. Lisans şartlarının değiştirilmediği sürece istenilen her şey yapılabilir.
 
-GPL lisansı kullanım şartlarının değiştirilmeden istediğiniz şekilde kullanmanıza izin verir. Lisans
-şartlarının değiştirilmediği sürece istenilen her şey yapılabilir.
+![GNU Lisans](/assets/acik-kaynak/dilara-kadakaloglu/3.png)
 
-#### Apache 2.
+#### Apache 2
 
 Apache Lisansı (2.0 sürümünden önce Apache Yazılım Lisansı olarak adlandırılmaktaydı), Apache
 Yazılım Vakfı (ASF) tarafından yayımlanan bir özgür yazılım lisansıdır. Tüm sürümleri telif
 hakkı koruma ve feragat uyarısı gerektirmektedir. Lisans, özgür ve açık kaynak kodlu
 yazılımın geliştirilmesi için kaynak kodlarının kullanımına da izin vermektedir.
 
-
 ASF tarafından üretilen ya da onun herhangi bir tasarısının ürünü olan tüm yazılımlar, Apache Lisansı
 koşullarına göre lisanslanmaktadır. ASF tarafından üretilmeyen yazılımlar da zaman zaman bu lisansı
 kullanabilmektedir
 
+![Apache 2 Lisans](/assets/acik-kaynak/dilara-kadakaloglu/4.png)
 
 # Türkiye’de ve Dünyada Open Source
 
-Açık kaynak kodlu yazılımlara ilginin tüm dünyada hızla arttığını görebiliyoruz. Geliştiriciler kadar
-olmasa da hem dünya ülkelerinin hem de kendi ülkemiz için yavaş yavaş bu alanda çalışmalar
-yaptığını görebiliyoruz. Geçtiğimiz son 10 yıl içinde, açık kaynak kodlu yazılımları kullanılmasını
-zorunlu kılan ya da en azından teşvik eden çalışmalar, hükümetlerce yasalaşmaya başladı ve gittikçe
-de yaygınlaşmaktadır.
+Açık kaynak kodlu yazılımlara ilginin tüm dünyada hızla arttığını görebiliyoruz. Geliştiriciler kadar olmasa da hem dünya ülkelerinin hem de kendi ülkemiz için yavaş yavaş bu alanda çalışmalar yaptığını görebiliyoruz. Geçtiğimiz son 10 yıl içinde, açık kaynak kodlu yazılımları kullanılmasını zorunlu kılan ya da en azından teşvik eden çalışmalar, hükümetlerce yasalaşmaya başladı ve gittikçe de yaygınlaşmaktadır.
 
-Tüm dünya ülkelerinin açık kaynak kodlu yazılım geliştirme ve kullanmada ne durumda olduğunu
-gösteren bir araştırma yapıldı. Network World tarafından yapılan bu araştırma sayesinde harita
-üzerinde ülkelerin birbirleriyle olan farkı daha somut ve açık bir şekilde gösterilmiştir.
+Tüm dünya ülkelerinin açık kaynak kodlu yazılım geliştirme ve kullanmada ne durumda olduğunu gösteren bir araştırma yapıldı. Network World tarafından yapılan bu araştırma sayesinde harita üzerinde ülkelerin birbirleriyle olan farkı daha somut ve açık bir şekilde gösterilmiştir.
 
-Bu çalışma, ülkelerin açık kaynak kodlu yazılımlar için aldığı yasal kararlar dikkate alınarak yapılmış ve
-ülkeleri belirli kategorilerde gruplayarak sınıflandırmıştır.
+Bu çalışma, ülkelerin açık kaynak kodlu yazılımlar için aldığı yasal kararlar dikkate alınarak yapılmış ve ülkeleri belirli kategorilerde gruplayarak sınıflandırmıştır.
 
+![Dünyada Open Source](/assets/acik-kaynak/dilara-kadakaloglu/5.png)
 
-Bu çalışmaya göre; Amerika, Çin, Hindistan ve çoğu Avrupa ülkesinin, açık kaynak kodlu yazılımları
-teşvik eden ama yasal yaptırımı olmayan ülkeler kategorisinde olduğunu görüyoruz. Türkiye ise Rusya
-ve Brezilya ile aynı kategoride olup, yasal yaptırımın değerlendirme aşamasında olan ülkeler
-arasındadır.
+Bu çalışmaya göre; Amerika, Çin, Hindistan ve çoğu Avrupa ülkesinin, açık kaynak kodlu yazılımları teşvik eden ama yasal yaptırımı olmayan ülkeler kategorisinde olduğunu görüyoruz. Türkiye ise Rusya ve Brezilya ile aynı kategoride olup, yasal yaptırımın değerlendirme aşamasında olan ülkeler arasındadır.
 
 ## Dünyadaki Popüler Open Source Yazılımlar
 
 #### WordPress
+
+![WordPress](/assets/acik-kaynak/dilara-kadakaloglu/6.png)
 
 WordPress, 2003 yılında Mike Little ve Matt Mullenweg tarafından kurulmuştur. Web'deki tüm
 sitelerin % 32'sinden fazlası için tercih edilen bu platform, PHP ve MySQL üzerinde yerleşik ve GPLv
@@ -468,6 +441,8 @@ temalarına da sahiptir.
 
 #### Mozilla Firefox
 
+![Mozilla Firefox](/assets/acik-kaynak/dilara-kadakaloglu/7.png)
+
 Mozilla Firefox (veya sadece Firefox), Mozilla Foundation ve onun yan kuruluşu olan Mozilla
 Corporation tarafından geliştirilen ücretsiz ve açık kaynaklı bir web tarayıcısıdır. Firefox, Windows,
 MacOS, Linux ve Solaris işletim sistemleri için kullanılabilir.
@@ -478,6 +453,8 @@ kullanıcılara sunduğu kapsamlı third-party eklentiler sayesinde artmaktadır
 
 #### Apache OpenOffice
 
+![Apache OpenOffice](/assets/acik-kaynak/dilara-kadakaloglu/8.png)
+
 Apache OpenOffice, Microsoft Office’in ücretsiz bir alternatifi olarak, Apache Yazılım Vakfı
 önderliğinde özgür yazılım topluluklarınca geliştirilen, özgür ve ücretsiz bir ofis yazılımlarıdır. Kelime
 işlemci, hesap tablosu, sunum, çizim, formül ve veritabanı bileşenlerini içerir.
@@ -486,8 +463,9 @@ işlemci, hesap tablosu, sunum, çizim, formül ve veritabanı bileşenlerini i�
 eğitim kurumları vb.) kullanılabilir, istenildiği kadar sayıda bilgisayara tamamen ücretsiz olarak
 kurulabilir. Microsoft Windows, Linux ve Mac OS X işletim sistemlerini destekler.
 
+#### MySQL
 
-#### My SQL
+![MySQL](/assets/acik-kaynak/dilara-kadakaloglu/9.png)
 
 MySQL, 6 milyondan fazla sistemde yüklü bulunan multi-threaded, multi-user, hızlı bir veri tabanı
 yönetim sistemidir. UNIX, OS/2 ve Windows platformları için ücretsiz dağıtılmakla birlikte
@@ -498,7 +476,9 @@ hızlı bir performans sergilemektedir. Kaynak kodu açık olan MySQL'in pek ço
 MySQL geliştirme projesi, kaynak kodunu, çeşitli özel anlaşmaların yanı sıra GNU Genel Kamu Lisansı
 şartlarına uygun hale getirmiştir.
 
-#### NotePad ++
+#### NotePad++
+
+![NotePad++](/assets/acik-kaynak/dilara-kadakaloglu/10.png)
 
 Notepad++, Windows işletim sistemi içerisine gömülü olarak gelen Notepad yazılımına alternatif
 olarak kullanılmak üzere C++ ile geliştirilmiş GPL ile dağıtılan açık kaynak kodlu bir kaynak kod
@@ -507,18 +487,23 @@ kodu görüntüleyip uygun olarak highlight edebilir.
 
 #### Android
 
+![Android](/assets/acik-kaynak/dilara-kadakaloglu/11.png)
+
 Android, Linux çekirdeğinin ve diğer açık kaynak kodlu yazılımların değiştirilmiş bir versiyonuna
 dayanan, öncelikle akıllı telefonlar-tabletler gibi dokunmatik ekranlı mobil cihazlar için tasarlanmış
 olan ve Google tarafından geliştirilmiş bir mobil işletim sistemidir. Ayrıca Google, televizyonlar için
 Android TV, arabalar için Android Auto ve her biri özel bir kullanıcı arayüzüne sahip bilek saatler için
 OS'yi geliştirdi.
 
-
 #### VS Code
+
+![VS Code](/assets/acik-kaynak/dilara-kadakaloglu/12.png)
 
 VS Code, Nisan 2015’te Microsoft’un piyasaya çıkarttığı ve Windows, Linux, macOS işletim
 sistemlerinde kullanılabilen, Visual Studio’nun aksine bir IDE değil, programlama odaklı bir text
 editördür. Stack Overflow’un 2018 Geliştirici Anketi'nde en popüler geliştirici ortamı seçilmiştir.
+
+![VS Code](/assets/acik-kaynak/dilara-kadakaloglu/13.png)
 
 ## Türkiye’deki Open Source Çalışmaları
 
@@ -539,17 +524,18 @@ olursak;
     siber güvenlik bileşenlerinin entegre edildiği bir sistemdir. İşletim Sistemi Pardus'tur; bu
     sayede siber güvenlik bileşenlerinde de açık kaynak kodlu milli işletim sistemi dağıtımı
     kullanılmaktadır.
+    
 - **EnGerek – Kimlik yönetim Sistemi** : Web tabanlı geliştirilmiş bir kimlik yönetim sistemidir.
     Java programlama dili ile geliştirilmiştir. Temel hedefi kurum kullanıcılarını ve hesaplarını
     merkezden yönetmektir. Açık kaynaklı olarak geliştirilmiştir. Tomcat uygulama sunucusu
     üzerinde çalışmakta, kimlik deposu olarak MariaDB / MySQL / PostgreSQL veritabanlarını
     desteklemektedir.
 
-
 - **ETAP – Etkileşimli Tahta Arayüzü Projesi** : Pardus Etkileşimli Tahta Arayüzü eğitim
     kurumlarında kullanılmakta olan etkileşimli tahtalarda kullanılmak üzere özel olarak
     tasarlandı. Tasarım ve eklenen yeni özellikler dokunmatik ekranlı bir cihazın daha kolay ve
     etkili kullanımını sağlaması düşünülerek geliştirildi.
+
 - **LibreOffice – Masaüstü Ofis Paketi** : LibreOffice, özgür ve açık kaynak kodlu bir ofis
     takımıdır. LibreOffice, birçok uygulama içermektedir. Bunlar; Writer kelime işlemci, Calc
     hesap tablosu uygulaması, Impress sunu, Draw çizim ve akış şeması uygulaması, Base
@@ -557,6 +543,7 @@ olursak;
     Microsoft® Word, Excel, PowerPoint ve Publisher gibi birçok belge biçimi ile de
     uyumludur. Ancak LibreOffice, bunların ötesine giderek açık standart olan Açık Belge
     Biçimi – ABB (OpenDocument Format – ODF) kullanımını da sağlamaktadır.
+
 - **LiderAhenk – Merkezi Yönetim Sistemi** : Kurumsal ağ üzerindeki, sınırsız sayıda farklı
     sistemi ve kullanıcılarını tek merkezden yönetebilmeyi, izlemeyi ve denetlemeyi sağlayan,
     TÜBİTAK ULAKBİM tarafından geliştirilen açık kaynaklı bir yazılım sistemidir. Küresel
@@ -565,6 +552,7 @@ olursak;
     maliyetlerle karşılamak üzere geliştirilmiştir.
     Lider sunucu ve Ahenk çekirdekleri ile LDAP sunucusunun oluşturduğu benzersiz çözüm
     altyapısı çevresinde kurumsal ihtiyaçlara göre özelleşmiş otuzdan fazla eklenti içerir.
+
 - **ULAKBÜS – Bütünleşik Üniversite Sistemi:** Tübitak Ulakbim tarafından başlatılan ULAKBÜS
     projesi ile üniversitelerin idari ve akademik birimlerinde kullanılmakta olan yazılımların dış
     veri kaynaklarıyla ve birbirleriyle çalışması ve her bir birimin ihtiyaçlarının sağlanması
@@ -580,26 +568,29 @@ olursak;
     oluşturduğu, bilgi ve deneyim paylaşımı ile ortak hareket etmeyi amaçlayan bir sivil toplum
     örgütüdür. [http://www.lkd.org.tr/](http://www.lkd.org.tr/)
 
-```
+![LKD](/assets/acik-kaynak/dilara-kadakaloglu/14.png)
+
 LKD, Türkiye’de özgür yazılım ve Linux’un gelişmesini ve bu konuda ülkede özgür yazılım
 bilincinin oluşmasını, özgür yazılım ile Linux’un ülkeye ve topluma yarar sağlamasını
 hedeflemekle birlikte, üyelerinin bilgi ve becerileri ile sosyokültürel gelişimlerine katkıda
 bulunmak ve mesleki yarar kazanmalarını sağlamak için faaliyet göstermektedir. Ayrıca, LKD
-```
 
-```
 ülkenin bilişim ve bilgi toplumu politikalarında özgür yazılımın rolü konusunda çalışmalar
 yapar; bunları kamuoyu ile paylaşır ve bunların hayata geçmesi için çalışır.
-```
+
 - **Özgür Yazılım ve Linux Günleri** : LKD tarafından her yıl düzenlenen, Türkiye’de özgür yazılım
     ve GNU/Linux ile ilgilenenlerin katıldığı bir etkinliktir. Bu etkinliklerde, her bilgi seviyesine
     uygun tanıtıcı ve teknik seminerler yapılır. İlgili şirket ve organizasyonların stand açıp, ürün ve
     hizmetlerini tanıtabileceği bir platformdur. https://ozguryazilimgunleri.org.tr
+
+![Özgür Yazılım Günleri](/assets/acik-kaynak/dilara-kadakaloglu/15.png)
+
 - **Açık Bilim:** Açık bilim, elde edilen bilimsel ürünlerin, bilimsel makalelerin ya da bilimsel
     yayınların kullanıcılar için ücretsiz, patentsiz bir şekilde ulaşıma açık hale getirilmesi amacını
     güder. Bilimsel ürünlerin özgürce herkes tarafından kullanılması, geliştirilmesi ve bu ürünler
     sayesinde yeni buluşlar yapılması amacı güdülmektedir.
 
+![Açık Bilim](/assets/acik-kaynak/dilara-kadakaloglu/16.png)
 
 # Doğuş Teknoloji ve Open Source
 
@@ -640,7 +631,7 @@ Microsoft’tur.) MySQL, teknik bir desteğe ihtiyaç duyulduğunda her ne kadar
 genellikle buna ihtiyaç duyulmayacaktır. Çünkü MySQL destek topluluğu mutlaka aranılan çözüm için
 yardımcı olacaktır. MySQL için destek alınabilecek binlerce topluluk ve forum sitesi mevcuttur. MS
 SQL’e göre daha geniş bir topluluğun olduğu tarafta olmak, Doğuş Teknoloji’yi resmi destek isteme
-zahmetinden kurtaracaktır. Tek yapılması gereken, çözüm için internette arama yapmak. 
+zahmetinden kurtaracaktır. Tek yapılması gereken, çözüm için internette arama yapmak.
 
 Yine mevcutta Doğuş Teknoloji, ofis yazılımları için kullandığı Microsoft ürünü olan Microsoft Office
 (Office 365) ürünleri yerine tamamen ücretsiz ve özgür olan **Open Office** ürünlerini kullanmaya
@@ -652,7 +643,6 @@ yazılım alternatifleri vardır.
 - CRM uygulamaları (Sugar CRM, Civil CRM, Zurmo, Fat Free CRM vs.)
 - HR Uygulamaları (Orange HRM, Waypoint HR, SimpleHRM vs.)
 - Muhasebe Uygulamaları (K9ticaripaket, Turquaz vs.)
-
 
 Open Source ürün kullanmanın Doğuş Teknoloji’ye maliyet ve teknik destek avantajlarını
 kazandırmasını yanı sıra, Agile dönüşüm çerçevesinde de destek verebiliyor olması gerekir. Çünkü
@@ -680,78 +670,74 @@ aslında open source proje geliştirme felsefesini de bir yerlerden yakalayabile
 
 **d.**
 
-
 # Referanslar
 
 [http://kod5.org/acik-kaynak-kod-ve-linux-1/](http://kod5.org/acik-kaynak-kod-ve-linux-1/)
 
 [http://kod5.org/acik-kaynak-kod-ve-linux-2/](http://kod5.org/acik-kaynak-kod-ve-linux-2/)
 
-https://opensource.org/osd-annotated
+[https://opensource.org/osd-annotated](https://opensource.org/osd-annotated)
 
-https://en.wikipedia.org/wiki/Open-source_software
+[https://en.wikipedia.org/wiki/Open-source_software](https://en.wikipedia.org/wiki/Open-source_software)
 
-https://opensource.com/resources/what-open-source
+[https://opensource.com/resources/what-open-source](https://opensource.com/resources/what-open-source)
 
-https://www.quora.com/Why-do-people-prefer-using-open-source-software
+[https://www.quora.com/Why-do-people-prefer-using-open-source-software](https://www.quora.com/Why-do-people-prefer-using-open-source-software)
 
-https://gist.github.com/nolanlawson/d5334678848aaf11ba
+[https://gist.github.com/nolanlawson/d5334678848aaf11ba](https://gist.github.com/nolanlawson/d5334678848aaf11ba)
 
-https://www.mobomo.com/2011/08/10-tips-for-open-source-citizens/
+[https://www.mobomo.com/2011/08/10-tips-for-open-source-citizens/](https://www.mobomo.com/2011/08/10-tips-for-open-source-citizens/)
 
-https://blogs.vmware.com/opensource/2017/10/12/good-open-source-citizen/
+[https://blogs.vmware.com/opensource/2017/10/12/good-open-source-citizen/](https://blogs.vmware.com/opensource/2017/10/12/good-open-source-citizen/)
 
-https://opensource.com/resources/linux
+[https://opensource.com/resources/linux](https://opensource.com/resources/linux)
 
-https://opensource.com/article/18/5/differences-between-linux-and-unix
+[https://opensource.com/article/18/5/differences-between-linux-and-unix](https://opensource.com/article/18/5/differences-between-linux-and-unix)
 
-https://medium.com/gitcoin/a-brief-history-of-open-source-3928cb
+[https://medium.com/gitcoin/a-brief-history-of-open-source-3928cb](https://medium.com/gitcoin/a-brief-history-of-open-source-3928cb)
 
-https://www.kynetics.com/docs/2018/open-source-software-and-licensing/
+[https://www.kynetics.com/docs/2018/open-source-software-and-licensing/](https://www.kynetics.com/docs/2018/open-source-software-and-licensing/)
 
-https://choosealicense.com/licenses/apache-2.0/
+[https://choosealicense.com/licenses/apache-2.0/](https://choosealicense.com/licenses/apache-2.0/)
 
-https://choosealicense.com/licenses/gpl-3.0/
+[https://choosealicense.com/licenses/gpl-3.0/](https://choosealicense.com/licenses/gpl-3.0/)
 
-https://choosealicense.com/licenses/mit/
+[https://choosealicense.com/licenses/mit/](https://choosealicense.com/licenses/mit/)
 
-https://wordpress.org/about/
+[https://wordpress.org/about/](https://wordpress.org/about/)
 
-https://en.wikipedia.org/wiki/Firefox
+[https://en.wikipedia.org/wiki/Firefox](https://en.wikipedia.org/wiki/Firefox)
 
-https://www.openoffice.org/tr/why/why_foss.html
+[https://www.openoffice.org/tr/why/why_foss.html](https://www.openoffice.org/tr/why/why_foss.html)
 
-https://en.wikipedia.org/wiki/MySQL
+[https://en.wikipedia.org/wiki/MySQL](https://en.wikipedia.org/wiki/MySQL)
 
-https://notepad-plus-plus.org/
+[https://notepad-plus-plus.org/](https://notepad-plus-plus.org/)
 
-https://en.wikipedia.org/wiki/AOSP
+[https://en.wikipedia.org/wiki/AOSP](https://en.wikipedia.org/wiki/AOSP)
 
-https://www.ihs.com.tr/blog/googlein-en-iyi- 10 - acik-kaynak-projesi/
+[https://www.ihs.com.tr/blog/googlein-en-iyi-10-acik-kaynak-projesi/](https://www.ihs.com.tr/blog/googlein-en-iyi-10-acik-kaynak-projesi/)
 
-https://insights.stackoverflow.com/survey/2018/
+[https://insights.stackoverflow.com/survey/2018/](https://insights.stackoverflow.com/survey/2018/)
 
 [http://www.minepla.net/2015/05/visual-studio-code-nedir-ne-degildir/](http://www.minepla.net/2015/05/visual-studio-code-nedir-ne-degildir/)
 
-https://www.pardus.org.tr/donusum/
+[https://www.pardus.org.tr/donusum/](https://www.pardus.org.tr/donusum/)
 
-https://www.pardus.org.tr/projeler/ahtapot/
+[https://www.pardus.org.tr/projeler/ahtapot/](https://www.pardus.org.tr/projeler/ahtapot/)
 
-https://www.pardus.org.tr/projeler/engerek/
+[https://www.pardus.org.tr/projeler/engerek/](https://www.pardus.org.tr/projeler/engerek/)
 
-https://www.pardus.org.tr/projeler/etap/
+[https://www.pardus.org.tr/projeler/etap/](https://www.pardus.org.tr/projeler/etap/)
 
-https://www.pardus.org.tr/projeler/libreoffice/
+[https://www.pardus.org.tr/projeler/libreoffice/](https://www.pardus.org.tr/projeler/libreoffice/)
 
-
-https://www.pardus.org.tr/projeler/liderahenk/
+[https://www.pardus.org.tr/projeler/liderahenk/](https://www.pardus.org.tr/projeler/liderahenk/)
 
 [http://www.ulakbus.org/](http://www.ulakbus.org/)
 
 [http://www.cio.com.tr/haber/acik-kaynak-vermeyen-sirketler-tutunamayacak/](http://www.cio.com.tr/haber/acik-kaynak-vermeyen-sirketler-tutunamayacak/)
 
-https://agilemanifesto.org/
+[https://agilemanifesto.org/](https://agilemanifesto.org/)
 
-https://agilemanifesto.org/principles.html
-
-
+[https://agilemanifesto.org/principles.html](https://agilemanifesto.org/principles.html)

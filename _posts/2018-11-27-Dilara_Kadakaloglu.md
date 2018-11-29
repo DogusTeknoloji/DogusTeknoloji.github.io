@@ -388,8 +388,8 @@ Sadece telif hakkı ve lisans bildirimlerinin korunmasını gerektiren şartlarl
 belgesidir. Lisanslı çalışmalar, değişiklikler ve daha büyük işler farklı şartlar altında ve kaynak kodu
 olmadan dağıtılabilir.
 
-<img src="/assets/acik-kaynak/dilara-kadakaloglu/1.png" alt="MIT Lisans" width="400"/>
-<img src="/assets/acik-kaynak/dilara-kadakaloglu/2.png" alt="MIT Lisans" width="400"/>
+<img src="/assets/acik-kaynak/dilara-kadakaloglu/1.png" alt="MIT Lisans" width="800"/>
+<img src="/assets/acik-kaynak/dilara-kadakaloglu/2.png" alt="MIT Lisans" width="800"/>
 
 #### GNU General Public License v3.0 (GNU GPLv3)
 
@@ -397,7 +397,7 @@ Türkçe karşılığı “Genel Kamu Lisansı” olan bu lisans, ilk defa açı
 
 GPL lisansı kullanım şartlarının değiştirilmeden istediğiniz şekilde kullanmanıza izin verir. Lisans şartlarının değiştirilmediği sürece istenilen her şey yapılabilir.
 
-<img src="/assets/acik-kaynak/dilara-kadakaloglu/3.png" alt="GNU Lisans" width="400"/>
+<img src="/assets/acik-kaynak/dilara-kadakaloglu/3.png" alt="GNU Lisans" width="800"/>
 
 #### Apache 2
 
@@ -410,7 +410,7 @@ ASF tarafından üretilen ya da onun herhangi bir tasarısının ürünü olan t
 koşullarına göre lisanslanmaktadır. ASF tarafından üretilmeyen yazılımlar da zaman zaman bu lisansı
 kullanabilmektedir
 
-<img src="/assets/acik-kaynak/dilara-kadakaloglu/4.png" alt="Apache 2 Lisans" width="400"/>
+<img src="/assets/acik-kaynak/dilara-kadakaloglu/4.png" alt="Apache 2 Lisans" width="800"/>
 
 # Türkiye’de ve Dünyada Open Source
 
@@ -503,7 +503,7 @@ VS Code, Nisan 2015’te Microsoft’un piyasaya çıkarttığı ve Windows, Lin
 sistemlerinde kullanılabilen, Visual Studio’nun aksine bir IDE değil, programlama odaklı bir text
 editördür. Stack Overflow’un 2018 Geliştirici Anketi'nde en popüler geliştirici ortamı seçilmiştir.
 
-<img src="/assets/acik-kaynak/dilara-kadakaloglu/13.png" alt="VS Code" width="500"/>
+<img src="/assets/acik-kaynak/dilara-kadakaloglu/13.png" alt="VS Code" width="800"/>
 
 ## Türkiye’deki Open Source Çalışmaları
 
@@ -568,7 +568,7 @@ olursak;
     oluşturduğu, bilgi ve deneyim paylaşımı ile ortak hareket etmeyi amaçlayan bir sivil toplum
     örgütüdür. [http://www.lkd.org.tr/](http://www.lkd.org.tr/)
 
-<img src="/assets/acik-kaynak/dilara-kadakaloglu/14.png" alt="LKD" width="144"/>
+<img src="/assets/acik-kaynak/dilara-kadakaloglu/14.png" alt="LKD" width="200"/>
 
 LKD, Türkiye’de özgür yazılım ve Linux’un gelişmesini ve bu konuda ülkede özgür yazılım
 bilincinin oluşmasını, özgür yazılım ile Linux’un ülkeye ve topluma yarar sağlamasını
@@ -583,14 +583,14 @@ yapar; bunları kamuoyu ile paylaşır ve bunların hayata geçmesi için çalı
     uygun tanıtıcı ve teknik seminerler yapılır. İlgili şirket ve organizasyonların stand açıp, ürün ve
     hizmetlerini tanıtabileceği bir platformdur. https://ozguryazilimgunleri.org.tr
 
-<img src="/assets/acik-kaynak/dilara-kadakaloglu/15.png" alt="Özgür Yazılım Günleri" width="144"/>
+<img src="/assets/acik-kaynak/dilara-kadakaloglu/15.png" alt="Özgür Yazılım Günleri" width="200"/>
 
 - **Açık Bilim:** Açık bilim, elde edilen bilimsel ürünlerin, bilimsel makalelerin ya da bilimsel
     yayınların kullanıcılar için ücretsiz, patentsiz bir şekilde ulaşıma açık hale getirilmesi amacını
     güder. Bilimsel ürünlerin özgürce herkes tarafından kullanılması, geliştirilmesi ve bu ürünler
     sayesinde yeni buluşlar yapılması amacı güdülmektedir.
 
-<img src="/assets/acik-kaynak/dilara-kadakaloglu/16.png" alt="Açık Bilim" width="300"/>
+<img src="/assets/acik-kaynak/dilara-kadakaloglu/16.png" alt="Açık Bilim" width="500"/>
 
 # Doğuş Teknoloji ve Open Source
 

@@ -20,12 +20,11 @@ permalink: acik_kaynak_altug_demirden
 - Gücü ve Yaygınlaşmasının Nedenleri
 - Lisanslama Seçenekleri
 - Açık Kaynak Projelere hizmet veren servisler:
-   - GitHub:
-   - GitLab:
+  - GitHub:
+  - GitLab:
 - Türkiye’de ve Dünyada Açık Kaynak Programlama:
 - Doğuş Teknoloji ve Açık Kaynak Programlama:
 - Kaynaklar
-
 
 ## Açık Kaynak Programlama Tarihçesi
 
@@ -51,7 +50,6 @@ amacıyla yazıcı sürücüsünün kaynak kodunu sorduğunda, bunun özel bir b
 araştırma projesinin kaynak kodunu taşıyan farklı bir üniversitedeki araştırma görevlisinden haberdar
 olan Stallman, meslektaşından kaynak kodunu paylaşmasını istedi ve reddettiklerinde şok oldu.
 Stallman'ın hacker kültürüne ihanet ettiği bir gizlilik anlaşması (NDA) imzaladılar.
-
 
 ![PDP 10 Bilgisayarı](/assets/acik-kaynak/altug-demirden/2.png)
 **Resim 2** : PDP 10 Bilgisayarı
@@ -89,7 +87,6 @@ kopyalayabilir, dağıtabilir ve değiştirebilirsiniz. Lisansı, ancak değişi
 kodun yanında değiştirilmiş kaynak kodunu paylaşmanız gerekir. 1990'larda internetin gelişiyle
 birlikte modifiye edilmiş yazılımı paylaşmak için bu basit gereksinim, özgür yazılım hareketinin
 merkezi olmayan, işbirlikçi kalkınma modelinin gelişmesine olanak vermiştir.
-
 
 1990'ların ortasına gelindiğinde, Linux başlıyordu ve özgür yazılım daha çok ana akım haline gelmişti.
 Linux çekirdeği, daha önce insanların gördüğü her şeyden tamamen farklı bir şekilde geliştirildi ve çok
@@ -160,7 +157,6 @@ etrafında inşa edilen genç şirketler için Wall Street'in dikkati ve IBM ve 
 teknoloji devlerinin getirdiği pazar güvenilirliği, açık kaynağın kitlesel olarak benimsenmesi için bir
 araya getirildi ve gelişmesine yardımcı olan açık kaynak programlama modelinin benimsemesi,
 günümüzde teknoloji endüstrisinde Linux ve açık kaynak hakimiyetine yol açmıştır.
-
 
 ## Lisanslama Seçenekleri
 

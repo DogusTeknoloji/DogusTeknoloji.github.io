@@ -7,7 +7,7 @@ redirect_from: "/assets/Acik_Kaynak_Programlama_Altug_Demirden.pdf"
 permalink: acik_kaynak_altug_demirden
 ---
 
-[Pdf versiyon](/assets/acik-kaynak/altug-demirden/Acik_Kaynak_Programlama.pdf)
+[Pdf versiyon](/assets/acik-kaynak/altug-demirden/Acik_Kaynak_Programlama_Altug_Demirden.pdf)
 
 # AÇIK KAYNAK PROGRAMLAMA GELİŞTİRME
 

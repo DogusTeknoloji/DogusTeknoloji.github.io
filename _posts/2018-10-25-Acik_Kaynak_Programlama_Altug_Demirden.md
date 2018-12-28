@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Açık Kaynak Programlama - Altuğ Demirden"
+title:  "Open Source Proje Geliştirme - Altuğ Demirden"
 categories: ["Açık Kaynak"]
 tags: ["Açık Kaynak", altugdemirden]
 redirect_from: "/assets/Acik_Kaynak_Programlama_Altug_Demirden.pdf"

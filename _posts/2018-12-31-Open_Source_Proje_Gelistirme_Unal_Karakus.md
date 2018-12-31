@@ -227,11 +227,11 @@ girer.
 
     a.  **Apache 2.0**
 
-    b.  **MIT **
+    b.  **MIT**
 
-    c.  **BSD **
+    c.  **BSD**
 
-    d.  **ISC **
+    d.  **ISC**
 
 2)  **Copyleft Lisanslama:** Permissive lisans modeline ek bazı
     kısıtlamalar getirir. Kaynak kod yeniden dağıtılıyorsa bu kod lisans
@@ -295,15 +295,15 @@ Tüm bu servislere ek olarak aslında tüm dünya tarafından kullanılan bazı
 açık kaynak platformları da mevcut. DT olarak gündemimizde olan
 platformlara da kısaca değinmek isterim.
 
-### **OpenStack**: Sanallaştırma platformlarının sağladığı maliyet avantajı tartışılmaz. Geçtiğimiz yıllarda birçok firma fiziksel sunucularını sanallaştırarak ciddi avantajlar sağladı. Tabi bu dönüşüm sanallaştırma yazılımlarında da (VMware, Hyper-V) kullanım artışı nedeniyle aynı oranda bir fiyat artışına yol açtı. OpenStack ise tam bu noktada sanallaştırma platformlarını farklı modüller çerçevesinde oluşturmanızı sağlayan açık kaynak bir çözüm olarak karşımıza çıkıyor. 
+- **OpenStack**: Sanallaştırma platformlarının sağladığı maliyet avantajı tartışılmaz. Geçtiğimiz yıllarda birçok firma fiziksel sunucularını sanallaştırarak ciddi avantajlar sağladı. Tabi bu dönüşüm sanallaştırma yazılımlarında da (VMware, Hyper-V) kullanım artışı nedeniyle aynı oranda bir fiyat artışına yol açtı. OpenStack ise tam bu noktada sanallaştırma platformlarını farklı modüller çerçevesinde oluşturmanızı sağlayan açık kaynak bir çözüm olarak karşımıza çıkıyor. 
 
-### **PostgreSQL**: İlişkisel veritabanı yönetimi için kendini kanıtlamış, ücretli çözümlerden neredeyse hiç farkı olmayan bir veri tabanı platformu olarak PostgreSQL, SQL Server ve Oracle gibi ücretli alternatifleri yerine tercih edilir bir ürün olarak karşımıza çıkıyor.
+ - **PostgreSQL**: İlişkisel veritabanı yönetimi için kendini kanıtlamış, ücretli çözümlerden neredeyse hiç farkı olmayan bir veri tabanı platformu olarak PostgreSQL, SQL Server ve Oracle gibi ücretli alternatifleri yerine tercih edilir bir ürün olarak karşımıza çıkıyor.
 
-### **Docker ve Kubernetes**: Docker ile uygulamalarınızı ücretsiz sanallaştırarak platform bağımsız olarak kullanabilirsiniz. Kubernetes ile sanallaştırdığınız uygulamalarınızın orkestrasyonunu yine ücretsiz olarak yapabilirsiniz. 
+ - **Docker ve Kubernetes**: Docker ile uygulamalarınızı ücretsiz sanallaştırarak platform bağımsız olarak kullanabilirsiniz. Kubernetes ile sanallaştırdığınız uygulamalarınızın orkestrasyonunu yine ücretsiz olarak yapabilirsiniz. 
 
-### **Tensorflow**: Google desteğiyle açık kaynak olarak geliştirilen, makine öğrenmesi ve derin öğrenme için kullanılan fonksiyonlarının tamamını barındıran bir altyapıdır. Hızı ve kolaylığı ile yapay zeka çözümlerinde tercih edilmektedir.
+ - **Tensorflow**: Google desteğiyle açık kaynak olarak geliştirilen, makine öğrenmesi ve derin öğrenme için kullanılan fonksiyonlarının tamamını barındıran bir altyapıdır. Hızı ve kolaylığı ile yapay zeka çözümlerinde tercih edilmektedir.
 
-### **ELK (Elasticsearch LogStash Kibana) Stack**: Uygulamalarınızın loglama sürecini kurgulayabileceğiniz, aktardığınız logları izleyip raporlar çıkartabileceğiniz pratik ve güzel bir çözümdür.
+ - **ELK (Elasticsearch LogStash Kibana) Stack**: Uygulamalarınızın loglama sürecini kurgulayabileceğiniz, aktardığınız logları izleyip raporlar çıkartabileceğiniz pratik ve güzel bir çözümdür.
 
 **TÜRKİYE'NİN AÇIK KAYNAK YAKLAŞIMI**
 =================================
@@ -420,6 +420,10 @@ kaynak çözümleri desteklemek ve tüm bu akışı yazılım sürecimizin bir
 parçası haline getirmek olmalıdır. Bu şekilde hem açık kaynak dünyasına
 Doğuş Teknoloji ve bireysel kimliğimizle önemli bir fayda sağlamış hem
 de şirketimize, ülkemize ve kendimize iyi bir yatırım yapmış oluruz.
+
+
+**KAYNAKÇA**
+===========
 
 <https://hackernoon.com/being-a-good-open-source-citizen-9060d0ab9732>
 

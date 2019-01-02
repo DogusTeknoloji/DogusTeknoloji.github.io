@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Open Source Proje Geliştirme - Aykut Karayel"
+categories: ["Açık Kaynak"]
+tags: ["Açık Kaynak", aykutkarayel]
+permalink: acik_kaynak_aykut_karayel
+---
+
 #### 2018
 
 # Özgür Yazılım

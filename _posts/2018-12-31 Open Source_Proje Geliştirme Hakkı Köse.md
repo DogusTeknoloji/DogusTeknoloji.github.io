@@ -1,291 +1,302 @@
+---
+layout: post
+title:  "Open Source Proje GeliÅŸtirme - HakkÄ± KÃ¶se"
+categories: ["AÃ§Ä±k Kaynak"]
+tags: ["AÃ§Ä±k Kaynak", hakkikose]
+redirect_from: "/assets/acik-kaynak/hakki-kose/Open_Source_Proje_Gelistirme-Hakki_Kose.pdf"
+permalink: acik_kaynak_hakki_kose
+---
+
+[Pdf Versiyon](assets/acik-kaynak/hakki-kose/Open_Source_Hakki_Kose.pdf)
+
 # Open Source Nedir?
 
-Yazýlým kopyalanabilir. Yazýlým kullanýlabilir. Yazýlým deðiþtirilebilir. Bu haklardan faydalanabilmek için
-bu haklarý baþkalarýna vermek zorundayýz. Bu 4 madde ile bir yazýlým ekosistemi oluþturuldu aslýnda.
-Özgür yazýlým bir iþ birliði fikri gibi düþünebiliriz.
+Yazï¿½lï¿½m kopyalanabilir. Yazï¿½lï¿½m kullanï¿½labilir. Yazï¿½lï¿½m deï¿½iï¿½tirilebilir. Bu haklardan faydalanabilmek iï¿½in
+bu haklarï¿½ baï¿½kalarï¿½na vermek zorundayï¿½z. Bu 4 madde ile bir yazï¿½lï¿½m ekosistemi oluï¿½turuldu aslï¿½nda.
+ï¿½zgï¿½r yazï¿½lï¿½m bir iï¿½ birliï¿½i fikri gibi dï¿½ï¿½ï¿½nebiliriz.
 
-Açýk kaynak kodlu yazýlýmýn ardýndaki fikir, kullanýcýlarýn etkili bir þekilde ortak geliþtiriciler olmasý,
-onu geliþtirmenin ve hatalarýn ve sorunlarýn giderilmesine yardýmcý olmanýn yollarýný önermektir. Bu,
-dilerseniz kendi ihtiyaçlarýnýza göre deðiþtirebilir, yeni iþletim sistemlerine taþýyabilir ve baþkalarýyla
-paylaþabilirsiniz.
+Aï¿½ï¿½k kaynak kodlu yazï¿½lï¿½mï¿½n ardï¿½ndaki fikir, kullanï¿½cï¿½larï¿½n etkili bir ï¿½ekilde ortak geliï¿½tiriciler olmasï¿½,
+onu geliï¿½tirmenin ve hatalarï¿½n ve sorunlarï¿½n giderilmesine yardï¿½mcï¿½ olmanï¿½n yollarï¿½nï¿½ ï¿½nermektir. Bu,
+dilerseniz kendi ihtiyaï¿½larï¿½nï¿½za gï¿½re deï¿½iï¿½tirebilir, yeni iï¿½letim sistemlerine taï¿½ï¿½yabilir ve baï¿½kalarï¿½yla
+paylaï¿½abilirsiniz.
 
-Open source’un açýlýmý;
+Open sourceï¿½un aï¿½ï¿½lï¿½mï¿½;
 
-Open: Herkesle iþ birliðine açýk
+Open: Herkesle iï¿½ birliï¿½ine aï¿½ï¿½k
 
-Source: Kaynak kod serbest þekilde paylaþýlýr
+Source: Kaynak kod serbest ï¿½ekilde paylaï¿½ï¿½lï¿½r
 
-# Tarihçesi
+# Tarihï¿½esi
 
-Eskiden bilgisayarlar büyük kurumlarýn tekelindeydi. Üniversite IBM gibi büyük firmalarýn. Yavaþ
-yavaþ kiþisel bilgisayarlar insanlarýn kullanýmýna açýldýkça yazýlým sektörü doðmaya baþladý. Bunun
-sonucunda da daha çok yazýlýmcý ortaya çýkmaya baþladý. Bunun hýzlanmasý için Richard Stallman
-1 983 bir atýlým yapýyor. GNU isimli proje ortaya çýkýyor.
+Eskiden bilgisayarlar bï¿½yï¿½k kurumlarï¿½n tekelindeydi. ï¿½niversite IBM gibi bï¿½yï¿½k firmalarï¿½n. Yavaï¿½
+yavaï¿½ kiï¿½isel bilgisayarlar insanlarï¿½n kullanï¿½mï¿½na aï¿½ï¿½ldï¿½kï¿½a yazï¿½lï¿½m sektï¿½rï¿½ doï¿½maya baï¿½ladï¿½. Bunun
+sonucunda da daha ï¿½ok yazï¿½lï¿½mcï¿½ ortaya ï¿½ï¿½kmaya baï¿½ladï¿½. Bunun hï¿½zlanmasï¿½ iï¿½in Richard Stallman
+1 983 bir atï¿½lï¿½m yapï¿½yor. GNU isimli proje ortaya ï¿½ï¿½kï¿½yor.
 
-Amaç o zamanlar çok yaygýn olan Unix iþletim sisteminin herhangi bir kodu kullanýlmadan tamamen
-açýk kaynak kodla ve baþkalarýnýn kullanmasýna serbestlik saðlayacak bir iþletim sistemi geliþtirmek.
-Ýþletim sistemi tamamen bir araya gelmiyor. Çeþitli modülleri yazýlýyor ama sonra Linux çekirdeði
-ortaya çýkýyor. Richard Stallman bu düþüncenin felsefesini baþlatan kiþidir ve vakfýn kurulmasýna
-öncülük eden kiþidir.
+Amaï¿½ o zamanlar ï¿½ok yaygï¿½n olan Unix iï¿½letim sisteminin herhangi bir kodu kullanï¿½lmadan tamamen
+aï¿½ï¿½k kaynak kodla ve baï¿½kalarï¿½nï¿½n kullanmasï¿½na serbestlik saï¿½layacak bir iï¿½letim sistemi geliï¿½tirmek.
+ï¿½ï¿½letim sistemi tamamen bir araya gelmiyor. ï¿½eï¿½itli modï¿½lleri yazï¿½lï¿½yor ama sonra Linux ï¿½ekirdeï¿½i
+ortaya ï¿½ï¿½kï¿½yor. Richard Stallman bu dï¿½ï¿½ï¿½ncenin felsefesini baï¿½latan kiï¿½idir ve vakfï¿½n kurulmasï¿½na
+ï¿½ncï¿½lï¿½k eden kiï¿½idir.
 
-1989 yýlýna kadar çeþitli yazýlýmlar üretiliyor ama hepsinin farklý farklý lisanslarý var. Diyorlar ki bir tane
-lisans olsun ve bütün yazýlýmlara uygulanabilir olsun. Temel bir felsefe getirelim deniyor.
+1989 yï¿½lï¿½na kadar ï¿½eï¿½itli yazï¿½lï¿½mlar ï¿½retiliyor ama hepsinin farklï¿½ farklï¿½ lisanslarï¿½ var. Diyorlar ki bir tane
+lisans olsun ve bï¿½tï¿½n yazï¿½lï¿½mlara uygulanabilir olsun. Temel bir felsefe getirelim deniyor.
 
-4 temel kuralý vardýr.
+4 temel kuralï¿½ vardï¿½r.
 
-0. Kural: Programýn sýnýrsýn kullanma özgürlüðü – Ücretsiz kullanma özgürlüðü
-1. Kural: Programýn nasýl çalýþtýðý inceleme ve amaçlara uygun deðiþtirme özgürlüðü – Kaynak
-    kodu açýk olacak. Derlenmiþ bile olsa yanýnda kaynak kodu verilecek ve nasýl çalýþtýðýný
-    inceleme þansý tanýyacak.
-2. Kural: Programýn kopyalarýný sýnýrsýz daðýtma özgürlüðü
-3. Kural: Programýn deðiþtirilmiþ hali de daðýtýlabilir – Örn. Kopyasý alýnan bir koda deðiþiklik
-    yaptýnýz yeni bir verdiniz ve yeniden daðýtabilirsiniz.
+0. Kural: Programï¿½n sï¿½nï¿½rsï¿½n kullanma ï¿½zgï¿½rlï¿½ï¿½ï¿½ ï¿½ ï¿½cretsiz kullanma ï¿½zgï¿½rlï¿½ï¿½ï¿½
+1. Kural: Programï¿½n nasï¿½l ï¿½alï¿½ï¿½tï¿½ï¿½ï¿½ inceleme ve amaï¿½lara uygun deï¿½iï¿½tirme ï¿½zgï¿½rlï¿½ï¿½ï¿½ ï¿½ Kaynak
+    kodu aï¿½ï¿½k olacak. Derlenmiï¿½ bile olsa yanï¿½nda kaynak kodu verilecek ve nasï¿½l ï¿½alï¿½ï¿½tï¿½ï¿½ï¿½nï¿½
+    inceleme ï¿½ansï¿½ tanï¿½yacak.
+2. Kural: Programï¿½n kopyalarï¿½nï¿½ sï¿½nï¿½rsï¿½z daï¿½ï¿½tma ï¿½zgï¿½rlï¿½ï¿½ï¿½
+3. Kural: Programï¿½n deï¿½iï¿½tirilmiï¿½ hali de daï¿½ï¿½tï¿½labilir ï¿½ ï¿½rn. Kopyasï¿½ alï¿½nan bir koda deï¿½iï¿½iklik
+    yaptï¿½nï¿½z yeni bir verdiniz ve yeniden daï¿½ï¿½tabilirsiniz.
 
-Bu temel kurallar özgür yazýlým vakfýnýn temel felsefedir. Buradan yola çýkarak genel kamu lisansý
-(GPL)ortaya çýkmýþtýr. Bu lisansý kullanarak geliþtiriciler kendi yazdýðý yazýlýmlarý lisanslamaya
-baþlayabiliyorlar.
+Bu temel kurallar ï¿½zgï¿½r yazï¿½lï¿½m vakfï¿½nï¿½n temel felsefedir. Buradan yola ï¿½ï¿½karak genel kamu lisansï¿½
+(GPL)ortaya ï¿½ï¿½kmï¿½ï¿½tï¿½r. Bu lisansï¿½ kullanarak geliï¿½tiriciler kendi yazdï¿½ï¿½ï¿½ yazï¿½lï¿½mlarï¿½ lisanslamaya
+baï¿½layabiliyorlar.
 
-Genel kamu lisansýnýn (GPL) temel felsefesi ise GPL ile lisanslanmýþ bir yazýlým kullanýldýðý zaman
-ortaya çýkarýlan yeni yazýlýmýnýn da GPL lisansý olmak zorundadýr. Örneðin Linux çekirdeðini alýp
-kullandýðýnýzý varsayalým ve bu yazýlým üzerinde deðiþiklikler yapýp yeni bir iþletim sistemi ortaya
-çýkardýðýmýzý düþünelim. Bu yeni iþletim sistemini insanlarýn kullanýmýna sunduðumuzda kaynak
-kodumuzu yine açýk olarak paylaþmak zorundayýz. Paralý satýlmasý önünde bir engel yok ancak kaynak
+Genel kamu lisansï¿½nï¿½n (GPL) temel felsefesi ise GPL ile lisanslanmï¿½ï¿½ bir yazï¿½lï¿½m kullanï¿½ldï¿½ï¿½ï¿½ zaman
+ortaya ï¿½ï¿½karï¿½lan yeni yazï¿½lï¿½mï¿½nï¿½n da GPL lisansï¿½ olmak zorundadï¿½r. ï¿½rneï¿½in Linux ï¿½ekirdeï¿½ini alï¿½p
+kullandï¿½ï¿½ï¿½nï¿½zï¿½ varsayalï¿½m ve bu yazï¿½lï¿½m ï¿½zerinde deï¿½iï¿½iklikler yapï¿½p yeni bir iï¿½letim sistemi ortaya
+ï¿½ï¿½kardï¿½ï¿½ï¿½mï¿½zï¿½ dï¿½ï¿½ï¿½nelim. Bu yeni iï¿½letim sistemini insanlarï¿½n kullanï¿½mï¿½na sunduï¿½umuzda kaynak
+kodumuzu yine aï¿½ï¿½k olarak paylaï¿½mak zorundayï¿½z. Paralï¿½ satï¿½lmasï¿½ ï¿½nï¿½nde bir engel yok ancak kaynak
 
 
-kodlarýmýzý paylaþmak zorundayýz. Baþkasý da bunu alarak istediði gibi deðiþtirebilir ve kullanabilir.
-Burada amaç yazýlým geliþtirme iþini kolaylaþtýrsýn ve etkileþime girmesini saðlamaktýr.
+kodlarï¿½mï¿½zï¿½ paylaï¿½mak zorundayï¿½z. Baï¿½kasï¿½ da bunu alarak istediï¿½i gibi deï¿½iï¿½tirebilir ve kullanabilir.
+Burada amaï¿½ yazï¿½lï¿½m geliï¿½tirme iï¿½ini kolaylaï¿½tï¿½rsï¿½n ve etkileï¿½ime girmesini saï¿½lamaktï¿½r.
 
-Özgür yazýlým ve açýk kaynak birebir ayný þey demek deðildir. 90 ’larýn sonunda sektörde þöyle bir þey
-olmuþ. Bir grup siz böyle çok özgür yazýlým diyorsunuz felsefesini öne çýkarýyorsunuz ancak bu durum
-büyük firmalarý , ticari firmalarý korkutuyor. Biz ayrý bir inisiyatif baþlatýyoruz diyorlar ve open source
-inisiyatifi diyorlar. Bu özgür yazýlým felsefesini çok önce çýkarmadan temelde ayný þeyi yaparak açýk
-kaynak ortaya konuluyor. Ýþin felsefesini çok bastýrmadan dile getiriliyor.
+ï¿½zgï¿½r yazï¿½lï¿½m ve aï¿½ï¿½k kaynak birebir aynï¿½ ï¿½ey demek deï¿½ildir. 90 ï¿½larï¿½n sonunda sektï¿½rde ï¿½ï¿½yle bir ï¿½ey
+olmuï¿½. Bir grup siz bï¿½yle ï¿½ok ï¿½zgï¿½r yazï¿½lï¿½m diyorsunuz felsefesini ï¿½ne ï¿½ï¿½karï¿½yorsunuz ancak bu durum
+bï¿½yï¿½k firmalarï¿½ , ticari firmalarï¿½ korkutuyor. Biz ayrï¿½ bir inisiyatif baï¿½latï¿½yoruz diyorlar ve open source
+inisiyatifi diyorlar. Bu ï¿½zgï¿½r yazï¿½lï¿½m felsefesini ï¿½ok ï¿½nce ï¿½ï¿½karmadan temelde aynï¿½ ï¿½eyi yaparak aï¿½ï¿½k
+kaynak ortaya konuluyor. ï¿½ï¿½in felsefesini ï¿½ok bastï¿½rmadan dile getiriliyor.
 
-Richard Stallman bu konuda bir yazý yazmýþtýr. Aralarýnda bir düþmanlýk yok ancak bir anlayýþ farký
-bulunmakta. RS diyor ki açýk kaynak koda sadece pragmatik açýdan bakýyorlar. Bir geliþtirme
-metodolojisi olarak görüyorlar. Özgür yazýlým bir sosyal sorundur bir olaya bu açýdan bakýyoruz diyor.
+Richard Stallman bu konuda bir yazï¿½ yazmï¿½ï¿½tï¿½r. Aralarï¿½nda bir dï¿½ï¿½manlï¿½k yok ancak bir anlayï¿½ï¿½ farkï¿½
+bulunmakta. RS diyor ki aï¿½ï¿½k kaynak koda sadece pragmatik aï¿½ï¿½dan bakï¿½yorlar. Bir geliï¿½tirme
+metodolojisi olarak gï¿½rï¿½yorlar. ï¿½zgï¿½r yazï¿½lï¿½m bir sosyal sorundur bir olaya bu aï¿½ï¿½dan bakï¿½yoruz diyor.
 
-Linux’ta kullanýlan bazý GNU lisanslý modüller GCC (Compiler), Bash (Terminal) bunun gibi temel
-modüller özgür yazýlým ile ortaya çýkmýþtýr.
+Linuxï¿½ta kullanï¿½lan bazï¿½ GNU lisanslï¿½ modï¿½ller GCC (Compiler), Bash (Terminal) bunun gibi temel
+modï¿½ller ï¿½zgï¿½r yazï¿½lï¿½m ile ortaya ï¿½ï¿½kmï¿½ï¿½tï¿½r.
 
-# Lisanslama Seçenekleri
+# Lisanslama Seï¿½enekleri
 
-Pek çok lisans türü vardýr ve lisans türleri yýllar içinde deðiþikliðe uðramýþtýr ve yeni versiyonlarý ortaya
-çýkmýþtýr. Ýhtiyaca göre kendi lisanslama seçeneðinizde bu ortama koyabilirsiniz tabi benimsenip
-benimsenmeyeceði topluluðun ihtiyaçlarýna baðladýr.
+Pek ï¿½ok lisans tï¿½rï¿½ vardï¿½r ve lisans tï¿½rleri yï¿½llar iï¿½inde deï¿½iï¿½ikliï¿½e uï¿½ramï¿½ï¿½tï¿½r ve yeni versiyonlarï¿½ ortaya
+ï¿½ï¿½kmï¿½ï¿½tï¿½r. ï¿½htiyaca gï¿½re kendi lisanslama seï¿½eneï¿½inizde bu ortama koyabilirsiniz tabi benimsenip
+benimsenmeyeceï¿½i topluluï¿½un ihtiyaï¿½larï¿½na baï¿½ladï¿½r.
 
-**GPL - GNU Genel Kamu Lisansý**
+**GPL - GNU Genel Kamu Lisansï¿½**
 
-Kaynak kodun herkese açýk hale getilrilmesi gereklidir. Yazýlýmda yapýlan düzenlemeler ayný lisans
-altýnda yayýnlanmalýdýr. Kaynak kodda yapýlan deðiþiklikler dokümante edilmelidir.
+Kaynak kodun herkese aï¿½ï¿½k hale getilrilmesi gereklidir. Yazï¿½lï¿½mda yapï¿½lan dï¿½zenlemeler aynï¿½ lisans
+altï¿½nda yayï¿½nlanmalï¿½dï¿½r. Kaynak kodda yapï¿½lan deï¿½iï¿½iklikler dokï¿½mante edilmelidir.
 
-Bu lisans türü ile üretilmiþ en önemli yazýlýmlardan biri Git’tir. Git ücretsiz ve açýk kaynak kodlu
-projeleri geliþtirirken kullanýlan versiyonlama sistemlerinden biridir Git. Github ise git kullanana
-yazýlým projeleri için bir depolama servisidir. Github açýk kaynak kodlu projeler tarafýndan en çok
+Bu lisans tï¿½rï¿½ ile ï¿½retilmiï¿½ en ï¿½nemli yazï¿½lï¿½mlardan biri Gitï¿½tir. Git ï¿½cretsiz ve aï¿½ï¿½k kaynak kodlu
+projeleri geliï¿½tirirken kullanï¿½lan versiyonlama sistemlerinden biridir Git. Github ise git kullanana
+yazï¿½lï¿½m projeleri iï¿½in bir depolama servisidir. Github aï¿½ï¿½k kaynak kodlu projeler tarafï¿½ndan en ï¿½ok
 tercih edilen servistir.
 
-**LGPL- GNU Kýsýtlý Genel Kamu Lisansý**
+**LGPL- GNU Kï¿½sï¿½tlï¿½ Genel Kamu Lisansï¿½**
 
-GPL’den türeyen ihtiyaçtan doðan bir lisansýdýr. Bazý geliþtiriciler GPL lisanslý bir yazýlýmý kullandýklarý
-paylaþmak zorundaydý ama bunu istemiþler. LGPL ile lisanslanmýþ bir ürünü kullandýðýnýzda bu imkan
-saðlanmýþ olur.
+GPLï¿½den tï¿½reyen ihtiyaï¿½tan doï¿½an bir lisansï¿½dï¿½r. Bazï¿½ geliï¿½tiriciler GPL lisanslï¿½ bir yazï¿½lï¿½mï¿½ kullandï¿½klarï¿½
+paylaï¿½mak zorundaydï¿½ ama bunu istemiï¿½ler. LGPL ile lisanslanmï¿½ï¿½ bir ï¿½rï¿½nï¿½ kullandï¿½ï¿½ï¿½nï¿½zda bu imkan
+saï¿½lanmï¿½ï¿½ olur.
 
 **MIT**
 
-En popüler yazýlým lisanslama türlerinden biridir. Yazýlým yayýnlandýðýnda kaynak kodun genel
-eriþiminin olmasý gerekmez. Yeniden kullanýmla ilgili çok sýnýrlý kýsýtlamalar koyar. Yapýlan deðiþiklikler
-herhangi bir lisans türü altýnda yeniden yayýnlanabilir. Örnek yazýlýmlar, jQuery, AngularJS
+En popï¿½ler yazï¿½lï¿½m lisanslama tï¿½rlerinden biridir. Yazï¿½lï¿½m yayï¿½nlandï¿½ï¿½ï¿½nda kaynak kodun genel
+eriï¿½iminin olmasï¿½ gerekmez. Yeniden kullanï¿½mla ilgili ï¿½ok sï¿½nï¿½rlï¿½ kï¿½sï¿½tlamalar koyar. Yapï¿½lan deï¿½iï¿½iklikler
+herhangi bir lisans tï¿½rï¿½ altï¿½nda yeniden yayï¿½nlanabilir. ï¿½rnek yazï¿½lï¿½mlar, jQuery, AngularJS
 
-**Apache Lisansý**
+**Apache Lisansï¿½**
 
 
-Google Android bu lisansa sahiptir. Deðiþlik yapýlabiliyor ancak ana lisansý yeni yazýlýma mutlaka
-eklemek gerekiyor. Ana kütüphanem budur demek gibi. Apache lisansýnda yapýlan deðiþiklikler
-herhangi bir lisans türü altýnda paylaþýlabilir.
+Google Android bu lisansa sahiptir. Deï¿½iï¿½lik yapï¿½labiliyor ancak ana lisansï¿½ yeni yazï¿½lï¿½ma mutlaka
+eklemek gerekiyor. Ana kï¿½tï¿½phanem budur demek gibi. Apache lisansï¿½nda yapï¿½lan deï¿½iï¿½iklikler
+herhangi bir lisans tï¿½rï¿½ altï¿½nda paylaï¿½ï¿½labilir.
 
-**Mozilla Public License - Mozilla Lisansý**
+**Mozilla Public License - Mozilla Lisansï¿½**
 
-Ýstenildiði gibi deðiþiklik yapýlabiliyor ancak yeni yazýlýmdan gelir elde edilirse pay vermek
-gerekebiliyor. GPL’e göre daha zayýf özellikler barýndýran bir lisans türüdür.
+ï¿½stenildiï¿½i gibi deï¿½iï¿½iklik yapï¿½labiliyor ancak yeni yazï¿½lï¿½mdan gelir elde edilirse pay vermek
+gerekebiliyor. GPLï¿½e gï¿½re daha zayï¿½f ï¿½zellikler barï¿½ndï¿½ran bir lisans tï¿½rï¿½dï¿½r.
 
-Detaylý açýk kaynak lisanslama çeþitleri için aþaðýdaki linkten eriþim saðlayabilirsiniz.
+Detaylï¿½ aï¿½ï¿½k kaynak lisanslama ï¿½eï¿½itleri iï¿½in aï¿½aï¿½ï¿½daki linkten eriï¿½im saï¿½layabilirsiniz.
 
 https://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licenses
 
-# Açýk kaynaklý yazýlýmýn avantajlarý nelerdir?
+# Aï¿½ï¿½k kaynaklï¿½ yazï¿½lï¿½mï¿½n avantajlarï¿½ nelerdir?
 
-En önemli faydalarýndan biri yazýlým eforu gerektirmeyen bir açýk kaynak kod kullanýmýnda bu
-yazýlýmýn istemediðiniz özelliklerini dýþarýda býrakýp kendi ihtiyaçlarýnýza göre düzenleme þansýnýzýn
-olmasýdýr.
+En ï¿½nemli faydalarï¿½ndan biri yazï¿½lï¿½m eforu gerektirmeyen bir aï¿½ï¿½k kaynak kod kullanï¿½mï¿½nda bu
+yazï¿½lï¿½mï¿½n istemediï¿½iniz ï¿½zelliklerini dï¿½ï¿½arï¿½da bï¿½rakï¿½p kendi ihtiyaï¿½larï¿½nï¿½za gï¿½re dï¿½zenleme ï¿½ansï¿½nï¿½zï¿½n
+olmasï¿½dï¿½r.
 
-Yazýlým maliyeti düþüyor. Bazýlarý ücretsiz olabiliyor.
+Yazï¿½lï¿½m maliyeti dï¿½ï¿½ï¿½yor. Bazï¿½larï¿½ ï¿½cretsiz olabiliyor.
 
-Pek çok kullanýcý katký yaptýðý için uygulama açýklarý kapatýlabiliyor. Ve çok kullanýcý kontrol ettiðinden
-bu hýzlý bir zamanda gerçekleþiyor.
+Pek ï¿½ok kullanï¿½cï¿½ katkï¿½ yaptï¿½ï¿½ï¿½ iï¿½in uygulama aï¿½ï¿½klarï¿½ kapatï¿½labiliyor. Ve ï¿½ok kullanï¿½cï¿½ kontrol ettiï¿½inden
+bu hï¿½zlï¿½ bir zamanda gerï¿½ekleï¿½iyor.
 
-Genelde ücretsizdir- açýk kaynaklý yazýlýmýn iþletmelere toplu olarak yýlda 60 milyar dolar kazandýrdýðý
+Genelde ï¿½cretsizdir- aï¿½ï¿½k kaynaklï¿½ yazï¿½lï¿½mï¿½n iï¿½letmelere toplu olarak yï¿½lda 60 milyar dolar kazandï¿½rdï¿½ï¿½ï¿½
 tahmin edilmektedir.
 
-Sürekli olarak geliþmektedir; bu, tescilli sistemlere göre daha iyi kalite ve daha güvenli ve hatalara
-daha az eðilimli olabileceði anlamýna gelir.
+Sï¿½rekli olarak geliï¿½mektedir; bu, tescilli sistemlere gï¿½re daha iyi kalite ve daha gï¿½venli ve hatalara
+daha az eï¿½ilimli olabileceï¿½i anlamï¿½na gelir.
 
-Açýk kaynaklý yazýlýmýn kullanýlmasý, yalnýzca diðer sistemleriyle çalýþan belirli bir satýcýnýn sistemini
-kullanmaya zorunlu olmadýðýnýz anlamýna da gelir.
+Aï¿½ï¿½k kaynaklï¿½ yazï¿½lï¿½mï¿½n kullanï¿½lmasï¿½, yalnï¿½zca diï¿½er sistemleriyle ï¿½alï¿½ï¿½an belirli bir satï¿½cï¿½nï¿½n sistemini
+kullanmaya zorunlu olmadï¿½ï¿½ï¿½nï¿½z anlamï¿½na da gelir.
 
-Açýk kaynak kodlu yazýlýmý kendi gereksinimleriniz için, deðiþtirebilir ve uyarlayabilirsiniz.
+Aï¿½ï¿½k kaynak kodlu yazï¿½lï¿½mï¿½ kendi gereksinimleriniz iï¿½in, deï¿½iï¿½tirebilir ve uyarlayabilirsiniz.
 
-# Açýk kaynaklý yazýlýmýn dezavantajlarý nelerdir?
+# Aï¿½ï¿½k kaynaklï¿½ yazï¿½lï¿½mï¿½n dezavantajlarï¿½ nelerdir?
 
-Açýk kaynaklý olduðu için ortaya çýkacak problemler üzerinde sorumluluk kabul edilmez.
+Aï¿½ï¿½k kaynaklï¿½ olduï¿½u iï¿½in ortaya ï¿½ï¿½kacak problemler ï¿½zerinde sorumluluk kabul edilmez.
 
-Ticari bir ürün yaratma zorunluluðu olmadýðý için, açýk kaynaklý yazýlýmlar, geliþtiricilerin istekleri
-doðrultusunda son kullanýcýnýn gereksinimlerine göre daha fazla geliþme eðiliminde olabilir.
-
-
-Ayný sebepten dolayý, daha az "kullanýcý dostu" olabilirler ve kullanýmý kolay olmayabilir, çünkü
-kullanýcý ara yüzünü geliþtirmeye daha az dikkat edilir.
-
-Açýk kaynaklý yazýlýmýn kendisi çoðunlukla ücretsiz olsa da, harici destek için ödeme yapmak gibi bazý
-dolaylý maliyetler de olabilir.
-
-Açýk bir sisteme sahip olmak, birçok insanýn hatalarý tespit edip düzeltmek anlamýna gelmesine
-raðmen, kötü niyetli kullanýcýlarýn potansiyel olarak görebilecekleri ve tüm güvenlik açýklarýndan
-yararlanabilecekleri anlamýna gelebilir.
-
-# Neden Açýk Kaynak?
-
-Açýk kaynak, yazýlýmý daðýtmanýn sadece etkili bir yolu deðildir. En iyi ürünü mümkün kýlmak için etkili
-bir yoldur. Her indirme, projenin geliþmesi ve geliþmesi için bir fýrsattýr. Kullanýcýlar kodu incelerken
-güvenlik güçlenir. Güvenilirlik ve esneklik, çeþitli mimariler ve ortamlarda yapýlan sýký testler ile daha
-da geliþtirilir.
-
- Yazýlým oluþturmak iyidir, ancak yazýlýmýnýzýn etrafýnda bir topluluk
-
- oluþturmak daha iyidir.
-
- Herkes ayný kod üzerinde çalýþtýðýndan, ürünlerimiz bir tür doðal seçilim ile büyür. Belirli bir
-
- grup, neyin dahil edileceðine dair nihai kararý verir. Bu, isteðe baðlý özelliklere sahip
-
- olmadýðýmýz, yalnýzca ürünleri daha güçlü ve daha iyi yapan özelliklere sahip olduðumuz
-
- anlamýna gelir.
-
-# Nasýl iyi bir “Open Source Citizen” oluruz?
-
-Açýk kaynak bir topluluðu bir araya getirir ve bu topluluðun bir vatandaþý olarak bazý
-sorumluluklarýmýz vardýr. Bu topluluðun büyümesi verimliliðinin artmasý ve yaygýnlaþmasý gibi. Sadece
-kodu paylaþmak iyi bir vatandaþ için yeterli olmamalý.
-
-Ýþ birliði yapmak, var olan uygulamalarýn geliþmesine katkýda bulunmak, baþkalarýnýn kodlarýný gözden
-geçirerek güvenliði arttýran hatalarý ise indirgeyecek bir yöntem olan pull requestleri deðerlendirin.
-Sadece bir kod satýrý deðil yazýlan kodlarýn yapýsý, tasarýmý gibi konularýnda gözden geçirilmesi ileride
-uygulamanýn ölçeklenebilir bir yapýya kavuþmasý için çok önemlidir.
-
-Kendi kodlarýmýzýn da baþkalarý tarafýndan gözden geçirilmesini saðlamalý ve tüm geribildirimlere açýk
-olmalýyýz. Hata raporlarýný paylaþmak, yapýlan deðiþiklikleri dokümante etmek topluluðun
-benimsemesini kolaylaþtýracak önemli davranýþlardýr. Yapýlan deðiþikliklerin testlerinin olmamasý da
-ileride baþa bela olabilecek sorunlar doðurabilir. Bu yüzden code coverage oranýnýn yüksek olmasý
-oldukça önemli maddelerden biridir. Kötü kod stilleri hem hata ayýklamayý zorlaþtýrýr hem de
-uygulamanýza destek olacak diðer kiþilerin benimsememesine neden olabilir.
-
-Bir diðer konu yapýlan her deðiþiklik gözden geçirme olarak iletildiðinde sadece açýklamasýnda yer alan
-kadar iþ barýndýrmalý. Birden fazla iþin bir araya getirilerek birleþtirmek doðru deðildir. Her özellik ayrý
-ayrý yer almalý istenildiði zaman dýþarýda býrakýlabilir özellikte sistemde yer almalýdýr.
+Ticari bir ï¿½rï¿½n yaratma zorunluluï¿½u olmadï¿½ï¿½ï¿½ iï¿½in, aï¿½ï¿½k kaynaklï¿½ yazï¿½lï¿½mlar, geliï¿½tiricilerin istekleri
+doï¿½rultusunda son kullanï¿½cï¿½nï¿½n gereksinimlerine gï¿½re daha fazla geliï¿½me eï¿½iliminde olabilir.
 
 
-# Dünyada ve Türkiye’de açýk kaynak
+Aynï¿½ sebepten dolayï¿½, daha az "kullanï¿½cï¿½ dostu" olabilirler ve kullanï¿½mï¿½ kolay olmayabilir, ï¿½ï¿½nkï¿½
+kullanï¿½cï¿½ ara yï¿½zï¿½nï¿½ geliï¿½tirmeye daha az dikkat edilir.
 
-Dünyadaki bir çok inovasyon giriþiminin temelinde açýk kaynak bulunmaktadýr. Günümüzde Microsoft
-gibi yazýlým devlerinin bile açýk kaynak yazýlým ve altyapýlara yatýrým yapýyor olmasý gelecekte ne denli
-önem taþýdýðýna iþaret ediyor aslýnda. Açýk kaynaðýn yaygýnlaþma hýzý ve geliþme hýzý artýk genel
-varsayýlan geliþtirme türlerinin ötesine geçmeye baþladý. Bu yüzden giriþimcilerin dýþýnda artýk büyük
-þirketlerde bu ortak community’lere içerik üretmeye ve kendi uygulamalarýný bu platformlarda
-paylaþmaya baþladýlar.
+Aï¿½ï¿½k kaynaklï¿½ yazï¿½lï¿½mï¿½n kendisi ï¿½oï¿½unlukla ï¿½cretsiz olsa da, harici destek iï¿½in ï¿½deme yapmak gibi bazï¿½
+dolaylï¿½ maliyetler de olabilir.
 
-Üst bölümde GPL lisansýndan bahsederken Andorid iþletim sisteminde aslýnda bir açýk kaynak kodlu
-iþletim sistemi olduðunu belirtmiþtik. Bu aslýnda bu sistemlerden oluþan sistemlerin en kadar çok
-yaygýnlaþtýðýna dair çok büyük bir örnek.
+Aï¿½ï¿½k bir sisteme sahip olmak, birï¿½ok insanï¿½n hatalarï¿½ tespit edip dï¿½zeltmek anlamï¿½na gelmesine
+raï¿½men, kï¿½tï¿½ niyetli kullanï¿½cï¿½larï¿½n potansiyel olarak gï¿½rebilecekleri ve tï¿½m gï¿½venlik aï¿½ï¿½klarï¿½ndan
+yararlanabilecekleri anlamï¿½na gelebilir.
 
-Google’ýn, Facebook’un, Amazon’un yaný sýra Microsoft’unda ileriye dönük açýk kaynak vizyonlarý
-ileride bu altyapýlarýn neredeyse tüm sistemlerin altyapýsýný oluþturacaðýný söylememiz çok yanlýþ
-olmayacaktýr.
+# Neden Aï¿½ï¿½k Kaynak?
 
-Türkiye’de bu konuyla ilgili çok önemli bir adým atýldý. Sanayi ve Teknoloji bakaný Mustafa Varank
-Türkiye Açýk Kaynak Platformunun kurulacaðýný açýkladý. Bu artýk sadece özel þirketlerin deðil
-devletlerinde bu konuya verdiði önemin çok önemli bir kanýtý aslýnda. Yazýlým geliþtirme
-maliyetlerinin, dýþ baðýmlýlýklarýn azalmasý bu konudaki en büyük beklentilerin baþýnda geliyor. Bu
-büyük ekosistemin bugün inþa edilmeye baþlamasý gelecekte yeni teknolojilerin altyapýsýný
-oluþturacak büyük bir adým olacak. Türkiye’de genellikle kapalý yazýlýmlarýn, kurumlara özel yazýlýmlar
-üretilmesi yurt dýþýna ihraç konusunda engel oluþturuyordu. Artýk bu platformlardan üretilen
-yazýlýmlar bir ürün vizyonu ile geliþtirilecek olup global bir topluluk tarafýndan da desteklenirse önemli
-noktalara gelebilecek uygulamalar ortaya çýkabilir.
+Aï¿½ï¿½k kaynak, yazï¿½lï¿½mï¿½ daï¿½ï¿½tmanï¿½n sadece etkili bir yolu deï¿½ildir. En iyi ï¿½rï¿½nï¿½ mï¿½mkï¿½n kï¿½lmak iï¿½in etkili
+bir yoldur. Her indirme, projenin geliï¿½mesi ve geliï¿½mesi iï¿½in bir fï¿½rsattï¿½r. Kullanï¿½cï¿½lar kodu incelerken
+gï¿½venlik gï¿½ï¿½lenir. Gï¿½venilirlik ve esneklik, ï¿½eï¿½itli mimariler ve ortamlarda yapï¿½lan sï¿½kï¿½ testler ile daha
+da geliï¿½tirilir.
 
-Dünyada ve ülkemizde artýk bir çok bulut sitemi altyapýsý ve sistemler açýk kaynak kodlu yazýlýmlarý
-temel alýyor. Bugünden bu sistemlere uyumlu altyapýlara geçmez ve geliþtirmelerimizi bu ortamlara
-taþýmazsak ileride çok daha sancýlý geçiþ süreçleri yaþanabilir. Kapalý sistemlerdeki içerik her geçen
-gün büyürken bu açýk sistemlerde çözümlerin buraya uygulanamýyor oluþu(Lisans) daha fazla efor ve
+ Yazï¿½lï¿½m oluï¿½turmak iyidir, ancak yazï¿½lï¿½mï¿½nï¿½zï¿½n etrafï¿½nda bir topluluk
+
+ oluï¿½turmak daha iyidir.
+
+ Herkes aynï¿½ kod ï¿½zerinde ï¿½alï¿½ï¿½tï¿½ï¿½ï¿½ndan, ï¿½rï¿½nlerimiz bir tï¿½r doï¿½al seï¿½ilim ile bï¿½yï¿½r. Belirli bir
+
+ grup, neyin dahil edileceï¿½ine dair nihai kararï¿½ verir. Bu, isteï¿½e baï¿½lï¿½ ï¿½zelliklere sahip
+
+ olmadï¿½ï¿½ï¿½mï¿½z, yalnï¿½zca ï¿½rï¿½nleri daha gï¿½ï¿½lï¿½ ve daha iyi yapan ï¿½zelliklere sahip olduï¿½umuz
+
+ anlamï¿½na gelir.
+
+# Nasï¿½l iyi bir ï¿½Open Source Citizenï¿½ oluruz?
+
+Aï¿½ï¿½k kaynak bir topluluï¿½u bir araya getirir ve bu topluluï¿½un bir vatandaï¿½ï¿½ olarak bazï¿½
+sorumluluklarï¿½mï¿½z vardï¿½r. Bu topluluï¿½un bï¿½yï¿½mesi verimliliï¿½inin artmasï¿½ ve yaygï¿½nlaï¿½masï¿½ gibi. Sadece
+kodu paylaï¿½mak iyi bir vatandaï¿½ iï¿½in yeterli olmamalï¿½.
+
+ï¿½ï¿½ birliï¿½i yapmak, var olan uygulamalarï¿½n geliï¿½mesine katkï¿½da bulunmak, baï¿½kalarï¿½nï¿½n kodlarï¿½nï¿½ gï¿½zden
+geï¿½irerek gï¿½venliï¿½i arttï¿½ran hatalarï¿½ ise indirgeyecek bir yï¿½ntem olan pull requestleri deï¿½erlendirin.
+Sadece bir kod satï¿½rï¿½ deï¿½il yazï¿½lan kodlarï¿½n yapï¿½sï¿½, tasarï¿½mï¿½ gibi konularï¿½nda gï¿½zden geï¿½irilmesi ileride
+uygulamanï¿½n ï¿½lï¿½eklenebilir bir yapï¿½ya kavuï¿½masï¿½ iï¿½in ï¿½ok ï¿½nemlidir.
+
+Kendi kodlarï¿½mï¿½zï¿½n da baï¿½kalarï¿½ tarafï¿½ndan gï¿½zden geï¿½irilmesini saï¿½lamalï¿½ ve tï¿½m geribildirimlere aï¿½ï¿½k
+olmalï¿½yï¿½z. Hata raporlarï¿½nï¿½ paylaï¿½mak, yapï¿½lan deï¿½iï¿½iklikleri dokï¿½mante etmek topluluï¿½un
+benimsemesini kolaylaï¿½tï¿½racak ï¿½nemli davranï¿½ï¿½lardï¿½r. Yapï¿½lan deï¿½iï¿½ikliklerin testlerinin olmamasï¿½ da
+ileride baï¿½a bela olabilecek sorunlar doï¿½urabilir. Bu yï¿½zden code coverage oranï¿½nï¿½n yï¿½ksek olmasï¿½
+oldukï¿½a ï¿½nemli maddelerden biridir. Kï¿½tï¿½ kod stilleri hem hata ayï¿½klamayï¿½ zorlaï¿½tï¿½rï¿½r hem de
+uygulamanï¿½za destek olacak diï¿½er kiï¿½ilerin benimsememesine neden olabilir.
+
+Bir diï¿½er konu yapï¿½lan her deï¿½iï¿½iklik gï¿½zden geï¿½irme olarak iletildiï¿½inde sadece aï¿½ï¿½klamasï¿½nda yer alan
+kadar iï¿½ barï¿½ndï¿½rmalï¿½. Birden fazla iï¿½in bir araya getirilerek birleï¿½tirmek doï¿½ru deï¿½ildir. Her ï¿½zellik ayrï¿½
+ayrï¿½ yer almalï¿½ istenildiï¿½i zaman dï¿½ï¿½arï¿½da bï¿½rakï¿½labilir ï¿½zellikte sistemde yer almalï¿½dï¿½r.
+
+
+# Dï¿½nyada ve Tï¿½rkiyeï¿½de aï¿½ï¿½k kaynak
+
+Dï¿½nyadaki bir ï¿½ok inovasyon giriï¿½iminin temelinde aï¿½ï¿½k kaynak bulunmaktadï¿½r. Gï¿½nï¿½mï¿½zde Microsoft
+gibi yazï¿½lï¿½m devlerinin bile aï¿½ï¿½k kaynak yazï¿½lï¿½m ve altyapï¿½lara yatï¿½rï¿½m yapï¿½yor olmasï¿½ gelecekte ne denli
+ï¿½nem taï¿½ï¿½dï¿½ï¿½ï¿½na iï¿½aret ediyor aslï¿½nda. Aï¿½ï¿½k kaynaï¿½ï¿½n yaygï¿½nlaï¿½ma hï¿½zï¿½ ve geliï¿½me hï¿½zï¿½ artï¿½k genel
+varsayï¿½lan geliï¿½tirme tï¿½rlerinin ï¿½tesine geï¿½meye baï¿½ladï¿½. Bu yï¿½zden giriï¿½imcilerin dï¿½ï¿½ï¿½nda artï¿½k bï¿½yï¿½k
+ï¿½irketlerde bu ortak communityï¿½lere iï¿½erik ï¿½retmeye ve kendi uygulamalarï¿½nï¿½ bu platformlarda
+paylaï¿½maya baï¿½ladï¿½lar.
+
+ï¿½st bï¿½lï¿½mde GPL lisansï¿½ndan bahsederken Andorid iï¿½letim sisteminde aslï¿½nda bir aï¿½ï¿½k kaynak kodlu
+iï¿½letim sistemi olduï¿½unu belirtmiï¿½tik. Bu aslï¿½nda bu sistemlerden oluï¿½an sistemlerin en kadar ï¿½ok
+yaygï¿½nlaï¿½tï¿½ï¿½ï¿½na dair ï¿½ok bï¿½yï¿½k bir ï¿½rnek.
+
+Googleï¿½ï¿½n, Facebookï¿½un, Amazonï¿½un yanï¿½ sï¿½ra Microsoftï¿½unda ileriye dï¿½nï¿½k aï¿½ï¿½k kaynak vizyonlarï¿½
+ileride bu altyapï¿½larï¿½n neredeyse tï¿½m sistemlerin altyapï¿½sï¿½nï¿½ oluï¿½turacaï¿½ï¿½nï¿½ sï¿½ylememiz ï¿½ok yanlï¿½ï¿½
+olmayacaktï¿½r.
+
+Tï¿½rkiyeï¿½de bu konuyla ilgili ï¿½ok ï¿½nemli bir adï¿½m atï¿½ldï¿½. Sanayi ve Teknoloji bakanï¿½ Mustafa Varank
+Tï¿½rkiye Aï¿½ï¿½k Kaynak Platformunun kurulacaï¿½ï¿½nï¿½ aï¿½ï¿½kladï¿½. Bu artï¿½k sadece ï¿½zel ï¿½irketlerin deï¿½il
+devletlerinde bu konuya verdiï¿½i ï¿½nemin ï¿½ok ï¿½nemli bir kanï¿½tï¿½ aslï¿½nda. Yazï¿½lï¿½m geliï¿½tirme
+maliyetlerinin, dï¿½ï¿½ baï¿½ï¿½mlï¿½lï¿½klarï¿½n azalmasï¿½ bu konudaki en bï¿½yï¿½k beklentilerin baï¿½ï¿½nda geliyor. Bu
+bï¿½yï¿½k ekosistemin bugï¿½n inï¿½a edilmeye baï¿½lamasï¿½ gelecekte yeni teknolojilerin altyapï¿½sï¿½nï¿½
+oluï¿½turacak bï¿½yï¿½k bir adï¿½m olacak. Tï¿½rkiyeï¿½de genellikle kapalï¿½ yazï¿½lï¿½mlarï¿½n, kurumlara ï¿½zel yazï¿½lï¿½mlar
+ï¿½retilmesi yurt dï¿½ï¿½ï¿½na ihraï¿½ konusunda engel oluï¿½turuyordu. Artï¿½k bu platformlardan ï¿½retilen
+yazï¿½lï¿½mlar bir ï¿½rï¿½n vizyonu ile geliï¿½tirilecek olup global bir topluluk tarafï¿½ndan da desteklenirse ï¿½nemli
+noktalara gelebilecek uygulamalar ortaya ï¿½ï¿½kabilir.
+
+Dï¿½nyada ve ï¿½lkemizde artï¿½k bir ï¿½ok bulut sitemi altyapï¿½sï¿½ ve sistemler aï¿½ï¿½k kaynak kodlu yazï¿½lï¿½mlarï¿½
+temel alï¿½yor. Bugï¿½nden bu sistemlere uyumlu altyapï¿½lara geï¿½mez ve geliï¿½tirmelerimizi bu ortamlara
+taï¿½ï¿½mazsak ileride ï¿½ok daha sancï¿½lï¿½ geï¿½iï¿½ sï¿½reï¿½leri yaï¿½anabilir. Kapalï¿½ sistemlerdeki iï¿½erik her geï¿½en
+gï¿½n bï¿½yï¿½rken bu aï¿½ï¿½k sistemlerde ï¿½ï¿½zï¿½mlerin buraya uygulanamï¿½yor oluï¿½u(Lisans) daha fazla efor ve
 maliyet getirmektedir.
 
-# Doðuþ Teknoloji ve Open Source
+# Doï¿½uï¿½ Teknoloji ve Open Source
 
-Dünyada ve Türkiye’de açýkladýðýmýz geliþmeler bu sistemlerin bir parçasý olan Doðuþ Teknoloji içinde
-geçerli olacaktýr.
+Dï¿½nyada ve Tï¿½rkiyeï¿½de aï¿½ï¿½kladï¿½ï¿½ï¿½mï¿½z geliï¿½meler bu sistemlerin bir parï¿½asï¿½ olan Doï¿½uï¿½ Teknoloji iï¿½inde
+geï¿½erli olacaktï¿½r.
 
-Öncelikle geliþtirilen uygulamalarýn yurt dýþýna dahi ihraç edilebileceði bir vizyona sahip ürün olmasý
-þirketin yurt içindeki baðýmlýlýklarýný azaltacaktýr.
+ï¿½ncelikle geliï¿½tirilen uygulamalarï¿½n yurt dï¿½ï¿½ï¿½na dahi ihraï¿½ edilebileceï¿½i bir vizyona sahip ï¿½rï¿½n olmasï¿½
+ï¿½irketin yurt iï¿½indeki baï¿½ï¿½mlï¿½lï¿½klarï¿½nï¿½ azaltacaktï¿½r.
 
-Open source commuity’lerde bulunan birçok hazýr çözüm kendi uygulamalarýmýza entegre edilebilir
-olacaktýr. Bu birçok modülün geliþtirme eforunu düþürecek hem zaman hem de maliyetinin
-azalmasýný saðlayacaktýr. Maliyet þirketler için oldukça önemli bir konu zira müþteriye sunulan
-hizmetlerin fiyatýný belirleyen önemli bir kalem. Bu konuda maliyetlerin azalmasý müþteriler
-tarafýndan daha çok tercih edilen bir þirket olma konusunda önemli bir nokta oluþturur. Birçok hazýr
-sunulan modül, uygulama hazýr olarak kullanýlabilir durumda olacaktýr. Uygulamalarýn ölçeðine göre
-yeterli performans ihtiyacýný karþýlayabilecek veri tabaný uygulamalarý buna bir örnek olabilir. MS SQL
-gibi yüksek maliyetli uygulamalar yerine PL/SQL gibi uygulamalarý geçilmeye baþlandý bile.
+Open source commuityï¿½lerde bulunan birï¿½ok hazï¿½r ï¿½ï¿½zï¿½m kendi uygulamalarï¿½mï¿½za entegre edilebilir
+olacaktï¿½r. Bu birï¿½ok modï¿½lï¿½n geliï¿½tirme eforunu dï¿½ï¿½ï¿½recek hem zaman hem de maliyetinin
+azalmasï¿½nï¿½ saï¿½layacaktï¿½r. Maliyet ï¿½irketler iï¿½in oldukï¿½a ï¿½nemli bir konu zira mï¿½ï¿½teriye sunulan
+hizmetlerin fiyatï¿½nï¿½ belirleyen ï¿½nemli bir kalem. Bu konuda maliyetlerin azalmasï¿½ mï¿½ï¿½teriler
+tarafï¿½ndan daha ï¿½ok tercih edilen bir ï¿½irket olma konusunda ï¿½nemli bir nokta oluï¿½turur. Birï¿½ok hazï¿½r
+sunulan modï¿½l, uygulama hazï¿½r olarak kullanï¿½labilir durumda olacaktï¿½r. Uygulamalarï¿½n ï¿½lï¿½eï¿½ine gï¿½re
+yeterli performans ihtiyacï¿½nï¿½ karï¿½ï¿½layabilecek veri tabanï¿½ uygulamalarï¿½ buna bir ï¿½rnek olabilir. MS SQL
+gibi yï¿½ksek maliyetli uygulamalar yerine PL/SQL gibi uygulamalarï¿½ geï¿½ilmeye baï¿½landï¿½ bile.
 
 
-Büyük comminiteyler yer alan çözümlerin kullanýlmasý ayný zamanda büyük bir desteðinde arkanýzda
-yer almasý anlamýna gelir.
+Bï¿½yï¿½k comminiteyler yer alan ï¿½ï¿½zï¿½mlerin kullanï¿½lmasï¿½ aynï¿½ zamanda bï¿½yï¿½k bir desteï¿½inde arkanï¿½zda
+yer almasï¿½ anlamï¿½na gelir.
 
-Topluluk tarafýndan geliþtirilen bir çok uygulama güvenlik zafiyetlerinden de kurtulur.
-Community’deki birçok kiþi tarafýndan gözden geçirilen uygulamalar hem güvenlik açýklarýnýn
-azalmasýna hem de daha hýzlý geliþmesine katkýda bulunacaktýr.
+Topluluk tarafï¿½ndan geliï¿½tirilen bir ï¿½ok uygulama gï¿½venlik zafiyetlerinden de kurtulur.
+Communityï¿½deki birï¿½ok kiï¿½i tarafï¿½ndan gï¿½zden geï¿½irilen uygulamalar hem gï¿½venlik aï¿½ï¿½klarï¿½nï¿½n
+azalmasï¿½na hem de daha hï¿½zlï¿½ geliï¿½mesine katkï¿½da bulunacaktï¿½r.
 
-Yine bir diðer fayda saðlayabilecek durum topluluk tarafýndan iletilen hata bildirimleri olacaktýr.
-Uygulamanýn daha hatasýz ve güvenilir olmasýný saðlayacak bir durum olacaktýr. Open Source
-Citizen’dan bahsederken bu topluluk içerisindeki insanlarýn sorumluluklarýndan biri de test
-coverage’larýnýn olmasýydý. Bu sayede uygulama üzerindeki deðiþikliklerin birbirini etkisinin minimum
-olacaðý stabil bir uygulama ortaya konulabilecektir.
+Yine bir diï¿½er fayda saï¿½layabilecek durum topluluk tarafï¿½ndan iletilen hata bildirimleri olacaktï¿½r.
+Uygulamanï¿½n daha hatasï¿½z ve gï¿½venilir olmasï¿½nï¿½ saï¿½layacak bir durum olacaktï¿½r. Open Source
+Citizenï¿½dan bahsederken bu topluluk iï¿½erisindeki insanlarï¿½n sorumluluklarï¿½ndan biri de test
+coverageï¿½larï¿½nï¿½n olmasï¿½ydï¿½. Bu sayede uygulama ï¿½zerindeki deï¿½iï¿½ikliklerin birbirini etkisinin minimum
+olacaï¿½ï¿½ stabil bir uygulama ortaya konulabilecektir.
 
-Uygulama geliþtirirken 4 - 5 kiþi ile geliþtirilen uygulama mý yoksa büyük bir topluluk tarafýndan
-geliþtirilen bir uygulama mý daha iyidir? Yüzlerde kiþinin katký saðladýðý ve sürekli güncellenen yeni
-özellikler kazanan bir uygulama yapýsý için tabi ki de büyük comminity’lerde yer alan uygulamalar
-geliþtirmek bunlarýn open source paylaþmak çok daha kaliteli uygulamalar yapmaya olanak
-saðlayacaktýr.
+Uygulama geliï¿½tirirken 4 - 5 kiï¿½i ile geliï¿½tirilen uygulama mï¿½ yoksa bï¿½yï¿½k bir topluluk tarafï¿½ndan
+geliï¿½tirilen bir uygulama mï¿½ daha iyidir? Yï¿½zlerde kiï¿½inin katkï¿½ saï¿½ladï¿½ï¿½ï¿½ ve sï¿½rekli gï¿½ncellenen yeni
+ï¿½zellikler kazanan bir uygulama yapï¿½sï¿½ iï¿½in tabi ki de bï¿½yï¿½k comminityï¿½lerde yer alan uygulamalar
+geliï¿½tirmek bunlarï¿½n open source paylaï¿½mak ï¿½ok daha kaliteli uygulamalar yapmaya olanak
+saï¿½layacaktï¿½r.
 
-Yine sadece kendi geliþtirdiði uygulamalarda deðil toplulukta paylaþýlmýþ gereksinimlere uygun
-yazýlýmý geliþtirilen uygulamalara özelleþtirerek implemente etmeye olanak saðlayacaktýr.
+Yine sadece kendi geliï¿½tirdiï¿½i uygulamalarda deï¿½il toplulukta paylaï¿½ï¿½lmï¿½ï¿½ gereksinimlere uygun
+yazï¿½lï¿½mï¿½ geliï¿½tirilen uygulamalara ï¿½zelleï¿½tirerek implemente etmeye olanak saï¿½layacaktï¿½r.
 
-Özgürlük... Tüm platformlarda çalýþabilen lisans maliyetlerini en aza indirebilecek bu sayede yaþam
-döngüsü daha uzun olacak hem de müþterilerine daha uygun fiyatlarla hizmet verebilecek çözümler
-üretebilme imkâný olacaktýr.
+ï¿½zgï¿½rlï¿½k... Tï¿½m platformlarda ï¿½alï¿½ï¿½abilen lisans maliyetlerini en aza indirebilecek bu sayede yaï¿½am
+dï¿½ngï¿½sï¿½ daha uzun olacak hem de mï¿½ï¿½terilerine daha uygun fiyatlarla hizmet verebilecek ï¿½ï¿½zï¿½mler
+ï¿½retebilme imkï¿½nï¿½ olacaktï¿½r.
 
-Open source yazýlýmlarla tasarlanan sistemler daha düþük sistem gereksinimlerinde bile çalýþma
-imkâný sunabilir. Bu da uygulamalarýn hayata geçtikleri zaman daha esnek tüm platformlarda çalýþma
-imkâný saðlamasý anlamýna gelir.
+Open source yazï¿½lï¿½mlarla tasarlanan sistemler daha dï¿½ï¿½ï¿½k sistem gereksinimlerinde bile ï¿½alï¿½ï¿½ma
+imkï¿½nï¿½ sunabilir. Bu da uygulamalarï¿½n hayata geï¿½tikleri zaman daha esnek tï¿½m platformlarda ï¿½alï¿½ï¿½ma
+imkï¿½nï¿½ saï¿½lamasï¿½ anlamï¿½na gelir.
 
-Günümüzde artýk birçok geliþtirici profili açýk kaynak yazýlýmlara yönelmektedir. Bu alanlarda yapýlan
-çalýþmalar ile þirketin adýnýn geçmesi hem þirketin çalýþan profilini geliþtirecek, marka deðerini
-arttýracaktýr. Bulunmak isteyeceðiniz þirketin bu imkanlarý saðlýyor olmasý hem bireyin geliþim planlarý
-hem de þirketin geliþim planlarý ile kesiþtiðinden çok daha verimli çalýþmalarýn ortaya çýkmasýný
-saðlayacaktýr.
+Gï¿½nï¿½mï¿½zde artï¿½k birï¿½ok geliï¿½tirici profili aï¿½ï¿½k kaynak yazï¿½lï¿½mlara yï¿½nelmektedir. Bu alanlarda yapï¿½lan
+ï¿½alï¿½ï¿½malar ile ï¿½irketin adï¿½nï¿½n geï¿½mesi hem ï¿½irketin ï¿½alï¿½ï¿½an profilini geliï¿½tirecek, marka deï¿½erini
+arttï¿½racaktï¿½r. Bulunmak isteyeceï¿½iniz ï¿½irketin bu imkanlarï¿½ saï¿½lï¿½yor olmasï¿½ hem bireyin geliï¿½im planlarï¿½
+hem de ï¿½irketin geliï¿½im planlarï¿½ ile kesiï¿½tiï¿½inden ï¿½ok daha verimli ï¿½alï¿½ï¿½malarï¿½n ortaya ï¿½ï¿½kmasï¿½nï¿½
+saï¿½layacaktï¿½r.
 
-Teknoloji artýk açýk kaynak kod tarafýnda geliþiyor. Gelecekteki birçok sistemin altyapýsýnýn olacaðý bir
-dünyada Doðuþ Teknoloji’de bu dönüþümlere bugünden baþlayarak uyum saðlayacaktýr. Belki tüm
-sistemleri dýþarýya açmak mümkün olmayacaktýr ancak hibrit çalýþabilecek platformlarda oluþmasýný
-saðlayacak yapýlar geliþtirerek birçok uygulamanýn bu yeni dünyaya hazýr olmasýný saðlayacak bir
-geliþtirme ortamý saðlamak mümkün olabilir.
+Teknoloji artï¿½k aï¿½ï¿½k kaynak kod tarafï¿½nda geliï¿½iyor. Gelecekteki birï¿½ok sistemin altyapï¿½sï¿½nï¿½n olacaï¿½ï¿½ bir
+dï¿½nyada Doï¿½uï¿½ Teknolojiï¿½de bu dï¿½nï¿½ï¿½ï¿½mlere bugï¿½nden baï¿½layarak uyum saï¿½layacaktï¿½r. Belki tï¿½m
+sistemleri dï¿½ï¿½arï¿½ya aï¿½mak mï¿½mkï¿½n olmayacaktï¿½r ancak hibrit ï¿½alï¿½ï¿½abilecek platformlarda oluï¿½masï¿½nï¿½
+saï¿½layacak yapï¿½lar geliï¿½tirerek birï¿½ok uygulamanï¿½n bu yeni dï¿½nyaya hazï¿½r olmasï¿½nï¿½ saï¿½layacak bir
+geliï¿½tirme ortamï¿½ saï¿½lamak mï¿½mkï¿½n olabilir.
 
 # Referanslar
 

@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Open Source Proje Geliştirme - Ramazan Eroğlu"
+categories: ["Açık Kaynak"]
+tags: ["Açık Kaynak", ramazaneroglu]
+permalink: acik_kaynak_ramazan_eroglu
+---
+
 # Açık kaynak kodlu program geliştirme
 
 [Pdf Versiyon](/assets/acik-kaynak/ramazan-eroglu/Ramazan_Eroglu-Open_Source_Proje_Gelistirme.pdf)

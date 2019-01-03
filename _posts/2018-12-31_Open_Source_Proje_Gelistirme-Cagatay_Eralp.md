@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Open Source Proje Geliştirme - Cagatay Eralp"
+title:  "Open Source Proje Geliştirme - Çağatay Eralp"
 categories: ["Açık Kaynak"]
 tags: ["Açık Kaynak", cagatayeralp]
-redirect_from: "/assets/acik-kaynak/cagatay_eralp/Open_Source_Cagatay_Eralp.pdf"
 permalink: acik_kaynak_cagatay_eralp
 ---
 

@@ -3,7 +3,6 @@ layout: post
 title:  "Open Source Proje Geliştirme - Ünal Karakuş"
 categories: ["Açık Kaynak"]
 tags: ["Açık Kaynak", unalkarakus]
-redirect_from: "/assets/Open_Source_Proje_Gelistirme_Unal_Karakus.pdf"
 permalink: acik_kaynak_unal_karakus
 ---
 

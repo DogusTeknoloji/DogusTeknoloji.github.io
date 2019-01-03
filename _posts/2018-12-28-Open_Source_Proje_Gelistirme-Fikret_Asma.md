@@ -3,7 +3,6 @@ layout: post
 title:  "Open Source Proje Geliştirme - Fikret Asma"
 categories: ["Açık Kaynak"]
 tags: ["Açık Kaynak", fikretasma]
-redirect_from: "/assets/Open_Source_Proje_Gelistirme_Fikret_Asma.pdf"
 permalink: acik_kaynak_fikret_asma
 ---
 

@@ -2,8 +2,7 @@
 layout: post
 title:  "Open Source Proje Geliştirme - Sema Arslan"
 categories: ["Açık Kaynak"]
-tags: ["Açık Kaynak", kubrasonmez]
-redirect_from: "/assets/acik-kaynak/sema-arslan/Open_Source_Proje_Gelistirme-Sema_Arslan.pdf"
+tags: ["Açık Kaynak", semaarslan]
 permalink: acik_kaynak_sema_arslan
 ---
 [Pdf versiyon](/assets/acik-kaynak/sema-arslan/OpenSourceProjeGeliştirme-Sema_Arslan.pdf)

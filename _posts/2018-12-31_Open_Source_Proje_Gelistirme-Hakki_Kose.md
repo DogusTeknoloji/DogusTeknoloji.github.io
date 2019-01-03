@@ -3,7 +3,6 @@ layout: post
 title:  "Open Source Proje Geliştirme - Hakkı Köse"
 categories: ["Açık Kaynak"]
 tags: ["Açık Kaynak", hakkikose]
-redirect_from: "/assets/acik-kaynak/hakki-kose/Open_Source_Proje_Gelistirme-Hakki_Kose.pdf"
 permalink: acik_kaynak_hakki_kose
 ---
 

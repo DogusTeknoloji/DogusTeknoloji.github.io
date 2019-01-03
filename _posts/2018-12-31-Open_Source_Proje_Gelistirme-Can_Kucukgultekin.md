@@ -3,7 +3,6 @@ layout: post
 title:  "Open Source Proje Geliştirme - Can Küçükgültekin"
 categories: ["Açık Kaynak"]
 tags: ["Açık Kaynak", cankgtkin]
-redirect_from: "/assets/Open_Source_Proje_Gelistirme_can_kucukgultekin.pdf"
 permalink: acik_kaynak_can_kucukgultekin
 ---
 

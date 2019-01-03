@@ -3,7 +3,6 @@ layout: post
 title:  "Open Source Proje Geliştirme - Kübra Sönmez"
 categories: ["Açık Kaynak"]
 tags: ["Açık Kaynak", kubrasonmez]
-redirect_from: "/assets/acik-kaynak/kubra-sonmez/Open_Source_Proje_Gelistirme-Kubra_Sonmez.pdf"
 permalink: acik_kaynak_kubra_sonmez
 ---
 

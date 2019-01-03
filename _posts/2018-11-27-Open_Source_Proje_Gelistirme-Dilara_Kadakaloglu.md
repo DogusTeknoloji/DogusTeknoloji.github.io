@@ -3,7 +3,6 @@ layout: post
 title:  "Open Source Proje Geliştirme - Dilara Kadakaloğlu"
 categories: ["Açık Kaynak"]
 tags: ["Açık Kaynak", dilarakadakaloglu]
-redirect_from: "/assets/Open_Source_Proje_Gelistirme_Dilara_Kadakaloglu.pdf"
 permalink: acik_kaynak_dilara_kadakaloglu
 ---
 

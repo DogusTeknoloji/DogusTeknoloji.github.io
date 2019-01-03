@@ -3,7 +3,6 @@ layout: post
 title:  "Open Source Proje Geliştirme - Sercan Solmaz"
 categories: ["Açık Kaynak"]
 tags: ["Açık Kaynak", sercansolmaz, srcnslmz, sercansolmazphoto]
-redirect_from: "/assets/Open_Source_Proje_Gelistirme_Sercan_Solmaz.pdf"
 permalink: acik_kaynak_sercan_solmaz
 ---
 
